@@ -1,0 +1,1001 @@
+InventoryId,StoreName,City,Area,ProductName,QuantitySold,QuantityAvailable,Cost,RetailPrice
+1,National Stores,Ouro Branco,9 Springview Point,Chocolate Bar - Smarties,1,11,4873.07,1500.39
+2,Family Dollar,Gerakaroú,5434 Daystar Circle,Pepper - Red Bell,6,1,3089.77,2095.61
+3,BJ's Wholesale Club,Radoboj,3 Darwin Drive,Chickensplit Half,10,11,4591.63,364.02
+4,Ocean State Job Lot,Al Madīd,684 Bunting Lane,Zucchini - Green,3,1,33.13,2111.21
+5,Ollie's Bargain Outlet,Bo Phloi,50162 John Wall Drive,"Cod - Salted, Boneless",9,3,3750.18,934.82
+6,BJ's Wholesale Club,Pieńsk,8 Fordem Pass,Flower - Dish Garden,1,9,4071.16,366.89
+7,BJ's Wholesale Club,Bov,89058 Monument Hill,"Beef - Rouladin, Sliced",7,4,876.43,1704.69
+8,Costco,Tögrög,1 Clarendon Way,"Cheese - Brie, Cups 125g",3,3,503.81,891.92
+9,Fred's,Chrastava,629 Crescent Oaks Center,Clam - Cherrystone,2,8,3008.33,2328.64
+10,Big Lots,Ágios Efstrátios,175 Kim Place,Coffee Cup 8oz 5338cd,1,7,1433.39,82.66
+11,HomeGoods,Kangar,689 Vera Pass,Sprouts - Alfalfa,3,4,748.47,614.76
+12,HomeGoods,Cipondok,78107 Logan Plaza,Flour - Semolina,8,2,1094.45,2941.23
+13,Ben Franklin,Las Flores,28413 Knutson Park,Monkfish - Fresh,5,9,4335.57,1707.46
+14,Ollie's Bargain Outlet,Kaseda-shirakame,828 Iowa Parkway,Pepper - Green Thai,10,11,2621.16,3196.38
+15,Burlington Coat Factory,Golden,28352 Tennyson Court,Oranges,2,1,4453.32,1727.04
+16,Ocean State Job Lot,Melrose,0 Cottonwood Pass,"Beef - Tenderlion, Center Cut",8,5,3209.84,1364.52
+17,Renys,Mnich,14 Mayfield Alley,"Octopus - Baby, Cleaned",4,5,3724.97,303.13
+18,Gabe's,Benito Juarez,010 Lunder Avenue,Rootbeer,11,9,2306.67,2056.26
+19,Meijer,Prokuplje,0 Dryden Park,Water - Tonic,12,4,3302.79,228.06
+20,HomeGoods,Tuanshan,92 Heffernan Trail,Longos - Chicken Caeser Salad,1,5,4003.82,2321.59
+21,Dd's Discounts,Jiukeng,634 Jackson Parkway,Hummus - Spread,5,2,4687.58,1711.77
+22,Ollie's Bargain Outlet,Gualán,5 Warner Parkway,Curry Powder,4,4,4065.89,1250.4
+23,Gordmans,Zhubei,353 Blackbird Avenue,"Bread - Crumbs, Bulk",9,3,4304.94,512.38
+24,Target,Purral,4496 Killdeer Court,Lamb - Loin Chops,1,3,1740.31,715.33
+25,Family Dollar,Cercal,4 Charing Cross Plaza,Coffee Cup 16oz Foam,7,1,2327.78,3866.06
+26,Fred's,Hekou,5995 Merchant Trail,Towel Dispenser,6,11,1192.25,619.91
+27,Ross Stores,Ra-ngae,023 Coleman Place,Muskox - French Rack,10,2,4479.93,703.88
+28,Tuesday Morning,Ettelbruck,84269 Crescent Oaks Way,Soup - Campbells Asian Noodle,7,10,381.87,591.06
+29,Walmart,Si Racha,2 Laurel Drive,Soup - Base Broth Beef,6,5,3764.99,2758.13
+30,Dollar General,Kumane,42385 Lighthouse Bay Hill,Cake - Lemon Chiffon,4,12,750,3519.15
+31,Ben Franklin,Chicheng,9 Melvin Way,Onions - Red Pearl,7,11,1896.99,1734.47
+32,Dd's Discounts,Liuzu,4416 Barby Terrace,Green Tea Refresher,8,7,1783.66,3804.43
+33,Ben Franklin,Khairpur,496 Cambridge Plaza,"Rum - Coconut, Malibu",4,7,1953.19,2020.1
+34,Dd's Discounts,Batuna Satu,375 Bellgrove Point,Bagel - Everything,8,3,2243.27,2492.85
+35,Harbor Freight Tools,Lafiagi,40020 Morningstar Crossing,Trueblue - Blueberry 12x473ml,2,8,1381.47,2218.44
+36,Family Dollar,Zarechnyy,39 Graceland Place,Cheese - St. Andre,3,5,770.12,1939.67
+37,National Stores,Primorka,8 Hudson Crossing,Wine - Mondavi Coastal Private,11,4,1969.43,1326.08
+38,Gabe's,Dabao,55 Bonner Lane,Rice Wine - Aji Mirin,7,9,3406.99,1968.35
+39,Renys,Şirvan,24 American Ash Plaza,"Vodka - Hot, Lnferno",1,4,3067.16,3539.67
+40,Dollar General,Funes,5657 Daystar Way,Tarragon - Fresh,1,7,2113.08,3384.82
+41,Harbor Freight Tools,Bo Kluea,25036 Division Terrace,Lobster - Cooked,4,9,486.35,1032.35
+42,Stein Mart,Yinla,8668 Lakewood Gardens Road,"Lemonade - Kiwi, 591 Ml",1,6,848.25,2970.73
+43,Gordmans,Majan,4621 Burrows Hill,Crackers Cheez It,2,10,225.12,1926.55
+44,Marshalls,Cavan,00189 Jana Plaza,Pomello,12,5,956.44,2318.19
+45,Burlington Coat Factory,Asykata,1 Drewry Circle,Rabbit - Whole,1,3,281.07,1278.77
+46,Stein Mart,Ala,42543 Chinook Road,Wine - Vovray Sec Domaine Huet,10,9,4688.3,3825.32
+47,Five Below,Vostochnyy,7329 Esch Avenue,Monkfish - Fresh,1,11,4574.55,3910.15
+48,Dd's Discounts,Curridabat,2 Morrow Avenue,Appetizer - Escargot Puff,10,11,4049.43,1967.38
+49,Roses,Ibshawāy,0 4th Pass,Mustard Prepared,11,8,3989.02,1015.66
+50,HomeSense,Budrus,737 Caliangt Road,Sherry - Dry,5,6,3962.69,2591.29
+51,HomeGoods,Banjar Yehsatang,41 Knutson Court,Wine - Penfolds Koonuga Hill,4,7,128.63,2394.1
+52,Marshalls,Lameiro,25554 Laurel Alley,"Sparkling Wine - Rose, Freixenet",2,1,2731.97,1814.52
+53,Fred Meyer,Alarobia,1538 Steensland Park,Peppercorns - Green,5,10,2707.74,2646.12
+54,Shopko,Rawa,421 Randy Lane,"Arctic Char - Fresh, Whole",1,6,664.94,1578.36
+55,Costco,Caihe,9 Dwight Plaza,Cilantro / Coriander - Fresh,3,10,3404.77,3326.88
+56,National Stores,Capalayan,54321 Waxwing Crossing,Ecolab - Solid Fusion,5,2,654.53,2791.71
+57,Ross Stores,Niš,71 Dayton Plaza,Spinach - Frozen,8,6,1983.66,835.97
+58,Big Lots,Piraju,868 Atwood Park,Potatoes - Mini White 3 Oz,1,10,1202.99,1332.08
+59,Family Dollar,Nsanje,7 Ronald Regan Park,Beets - Mini Golden,5,9,4782.47,2463.27
+60,Renys,Alexandroúpoli,8 Melvin Drive,"Lemonade - Strawberry, 591 Ml",12,6,286.98,3255.84
+61,Dd's Discounts,Twardawa,645 Pierstorff Terrace,"Rum - Cream, Amarula",8,5,991.59,3278.04
+62,Tuesday Morning,Höganäs,709 6th Circle,Wheat - Soft Kernal Of Wheat,6,7,2268.11,2718.19
+63,Renys,Rendui,6553 Maryland Center,Bulgar,4,2,4662.12,2085.69
+64,Kmart,Pangalangan,89062 Eggendart Avenue,"Pasta - Orzo, Dry",8,12,3913.03,2624.72
+65,Meijer,Derbent,8 Clove Center,Tea - Lemon Scented,4,12,3089.59,1658.1
+66,Dollar General,Opočno,23 6th Drive,Tray - 12in Rnd Blk,5,9,1176.78,1089.36
+67,Marshalls,Gaojimiao,2 Lawn Terrace,Peppercorns - Pink,2,4,248.88,3829.81
+68,Roses,Pniewy,82 Golf Plaza,Sauce - Vodka Blush,4,2,2595.48,1362.91
+69,Walmart,Montpellier,6 Ridgeway Hill,"Appetizer - Mini Egg Roll, Shrimp",8,6,4942.81,2975.2
+70,BJ's Wholesale Club,Älvsjö,2 Brown Plaza,Cheese - Fontina,11,12,3484.86,621.37
+71,Ollie's Bargain Outlet,Béja,0317 Pond Hill,Cattail Hearts,5,1,108.39,3295.61
+72,Target,Fenghua,4 4th Terrace,Napkin White - Starched,7,11,4853.97,2974.43
+73,Harbor Freight Tools,Pathum Rat,88199 Golf Course Center,Pork - Ham Hocks - Smoked,1,4,2025.89,1484.93
+74,Bi-Mart,Tianchi,2 Nelson Alley,"Lamb - Whole Head Off,nz",6,1,1318.92,357.33
+75,BJ's Wholesale Club,Nizhniy Lomov,9565 Arkansas Plaza,Filo Dough,4,8,2189.65,3882.77
+76,Marshalls,Vänersborg,9 Iowa Terrace,Jerusalem Artichoke,7,12,4725.06,312.37
+77,Shopko,Nanjiao,02074 North Center,Cookie Dough - Chunky,2,2,4959.07,1616.16
+78,Meijer,Huaribamba,8132 High Crossing Street,Wine - Semi Dry Riesling Vineland,8,10,507.51,3355.22
+79,T.J. Maxx,Kedungreja,4591 Crownhardt Place,Spice - Pepper Portions,8,9,4597.46,3574.91
+80,Target,Tower,93 Basil Trail,Aspic - Amber,6,2,524.89,2306.66
+81,Ben Franklin,Jāndiāla Sher Khān,2373 Derek Plaza,Leeks - Large,6,8,1248.85,3384.29
+82,HomeGoods,Zwolle,85 Hayes Crossing,Easy Off Oven Cleaner,10,8,2215.52,1015.89
+83,Fred Meyer,Kediren,90 Dawn Point,White Baguette,8,8,4914.8,1932.73
+84,Marshalls,Hualfín,96 Crownhardt Court,Petit Baguette,7,5,4805.75,2515.66
+85,Roses,Oslo,165 Moland Pass,Chives - Fresh,4,2,1940.88,1346.26
+86,National Stores,Katunayaka,7588 Hudson Hill,Tea - Herbal Sweet Dreams,4,12,837.05,60.19
+87,T.J. Maxx,Lautaro,19077 Service Drive,Dasheen,10,10,1112.74,2797.11
+88,Ollie's Bargain Outlet,Phultala,08032 Pennsylvania Avenue,"Nut - Walnut, Chopped",1,3,4627.28,3141.1
+89,Ross Stores,Västervik,666 Helena Parkway,Pop Shoppe Cream Soda,1,3,166.11,3848.56
+90,Harbor Freight Tools,Longshan,01238 Sugar Parkway,Island Oasis - Magarita Mix,12,1,3158.66,3671.16
+91,Fred Meyer,Agriá,07 Nobel Pass,Chicken - Leg / Back Attach,8,2,918,591.88
+92,Costco,Kamárai,26220 Gale Place,Loquat,12,11,1596.62,3294.09
+93,Gordmans,Kayapa,07 Carpenter Place,"Wine - Red, Black Opal Shiraz",4,3,115.23,3699.41
+94,Big Lots,Oepula,6086 Spenser Plaza,Vacuum Bags 12x16,9,10,2055.34,3024.4
+95,Gordmans,Gadingrejo,86944 Darwin Plaza,Bag - Clear 7 Lb,5,9,3053.99,766.08
+96,Stein Mart,Yangi-Nishon Shahri,65 School Alley,"Lemonade - Strawberry, 591 Ml",5,11,4353.75,2497.37
+97,T.J. Maxx,Fershampenuaz,46172 Marquette Park,"Soup - Beef Conomme, Dry",6,1,2458.15,2571.68
+98,Burlington Coat Factory,Las Lomas,00 Crescent Oaks Circle,Appetizer - Veg Assortment,1,9,4226.07,1549.84
+99,Kmart,Buenavista,82984 Northridge Junction,Cookies - Englishbay Wht,2,1,3184.62,2653.35
+100,Dd's Discounts,Sidi Smaïl,7 Gina Street,Coffee - Decafenated,11,7,255.38,3902.22
+101,BJ's Wholesale Club,Gagarin,9 Kipling Road,Fork - Plastic,3,11,4068.4,758.15
+102,HomeGoods,Sitajara,6286 Knutson Alley,Foie Gras,1,12,2388.85,167.81
+103,Roses,Kabalo,92300 Granby Point,Country Roll,1,10,67.41,1273.52
+104,Meijer,Anling,98 Arkansas Crossing,Sauerkraut,3,6,1272.71,2537.54
+105,Gabe's,Lanigan,46564 Dixon Drive,Hagen Daza - Dk Choocolate,1,11,3183.74,2084.58
+106,Shopko,Panjerrejo,0301 Melody Crossing,Red Currants,6,3,3160.7,1126.72
+107,Family Dollar,Carpiquet,3 Transport Circle,Cheese - Valancey,5,1,2462.94,2951.44
+108,T.J. Maxx,Santa Rita,285 Evergreen Circle,Pepper - Green Thai,10,12,4521.49,3924.37
+109,Gordmans,La Unión,7 Cardinal Terrace,Tomato - Plum With Basil,3,10,1652.97,533.09
+110,Burlington Coat Factory,Tha Mai,7788 Sommers Avenue,Snapple Raspberry Tea,10,5,1750.43,3440.67
+111,Five Below,Buracan,57326 Thierer Center,Rice Paper,6,7,4106.36,2061.64
+112,Family Dollar,Templeogue,368 Mallory Plaza,Pastry - French Mini Assorted,12,4,3776.76,2382.45
+113,Ocean State Job Lot,Stockholm,69 Iowa Center,Lobster - Cooked,3,1,2198.32,2813.5
+114,Ben Franklin,Nihaona,7 Shoshone Hill,Wine - Rubyport,1,7,110.19,2109.37
+115,Roses,Jangheung,1 Marquette Crossing,"Lemonade - Kiwi, 591 Ml",4,6,905.66,3439.52
+116,Meijer,Martinlongo,13456 Hayes Avenue,"Salmon - Atlantic, No Skin",10,7,549.49,3041.84
+117,Ben Franklin,Jinchang,7124 Dovetail Trail,Flour - Rye,2,1,3543.66,3417.09
+118,Roses,Karakul’,9 Prentice Place,Oil - Sunflower,5,10,1627.49,3680.71
+119,Bi-Mart,Wolowiro,7 Rockefeller Parkway,Tomatillo,10,3,3233.67,1420.61
+120,Shopko,Tambillo,571 Clarendon Park,Flour - Chickpea,1,12,2140.46,512.75
+121,Fred Meyer,Rawang,17010 Schiller Pass,Soup - Campbells Chili,12,4,1728,818.98
+122,Dollar General,Al Midyah,13538 Ryan Lane,Cheese - Marble,12,1,2177.49,3452.89
+123,Roses,Ledoy,2 Longview Drive,"Capon - Breast, Double, Wing On",4,1,1564.42,1649.11
+124,Five Below,Sarukhan,47 Claremont Junction,Pernod,4,3,3677.01,3316.69
+125,Roses,Bloemfontein,9404 Arizona Court,"Pasta - Orzo, Dry",8,12,2243.41,550.66
+126,Family Dollar,Bagneux,47136 Sundown Avenue,Sauce - Caesar Dressing,11,12,2456.27,3868.14
+127,Marshalls,Draguignan,13 Melody Avenue,Chicken - White Meat With Tender,6,12,4029.04,1735.83
+128,Dollar Tree,Weibin,805 Eggendart Plaza,"Yogurt - Raspberry, 175 Gr",1,3,4586.2,894.59
+129,Dd's Discounts,Srinagarindra,60609 Wayridge Junction,Compound - Orange,10,2,4544.03,976.8
+130,Big Lots,Shadili,947 Kingsford Parkway,Calypso - Lemonade,6,2,3834.85,174.08
+131,Dollar Tree,Chaplygin,83 South Place,Sesame Seed Black,8,7,4249,3385.48
+132,HomeSense,Sandaohezi,943 South Drive,"Pork - Bacon,back Peameal",5,4,3003.3,3011.32
+133,Ollie's Bargain Outlet,Cool űrhajó,23 Esch Center,Allspice - Jamaican,11,5,3366.19,1131.7
+134,Bargain Hunt,Gushui,517 David Park,Coffee Cup 12oz 5342cd,4,2,2290.38,2011.89
+135,Meijer,Frydrychowice,9 Nelson Hill,Bread - Sour Batard,9,9,3065.86,1453.35
+136,Family Dollar,Fleury-les-Aubrais,2 Harper Way,Bandage - Fexible 1x3,4,1,3794.04,2085.87
+137,Five Below,Campo,83 Michigan Circle,Seaweed Green Sheets,5,6,4004.6,2510.51
+138,Big Lots,Sundsvall,4 Hayes Crossing,Beef - Montreal Smoked Brisket,6,1,1525.23,3212.48
+139,Shopko,Suwangi Utara,72026 Evergreen Drive,Lemon Pepper,10,11,3855.02,1418.93
+140,T.J. Maxx,Miłakowo,73083 Darwin Park,Wine - Delicato Merlot,6,4,376.69,1140.55
+141,Roses,Quyangqiao,1 Dakota Drive,"Juice - Orange, 341 Ml",3,11,2615.59,3831.42
+142,Family Dollar,Jomboy,05873 Dovetail Parkway,Crab Brie In Phyllo,8,8,597.5,3233.88
+143,BJ's Wholesale Club,Lyon,2 Fairfield Court,Muffin - Bran Ind Wrpd,4,11,1181.11,581.18
+144,Gabe's,San Teodoro,35 Evergreen Drive,Kellogs Special K Cereal,7,4,3676.6,2774.64
+145,Kmart,Nagcarlan,81 Forest Run Hill,Ecolab - Mikroklene 4/4 L,11,6,3630.88,1991.34
+146,Roses,Grubišno Polje,0524 Anhalt Lane,Cabbage - Nappa,3,7,2214.93,120.16
+147,Ross Stores,Portorož,44 Drewry Street,Energy Drink Bawls,1,12,4762.89,1241.16
+148,Dd's Discounts,Chenjiaba,0 Corscot Point,"Juice - Apple, 341 Ml",1,2,4791.84,1626.59
+149,HomeSense,Alor Setar,15 Kipling Court,Paper - Brown Paper Mini Cups,3,1,3926.57,3228.26
+150,Bi-Mart,San Francisco,58468 Armistice Drive,Cookies Almond Hazelnut,3,1,2584.29,170.01
+151,Dd's Discounts,Szprotawa,3 Burrows Crossing,"Chilli Paste, Ginger Garlic",5,12,3911.89,576.3
+152,Family Dollar,Amagasaki,8 Mockingbird Court,Maple Syrup,3,4,3372.15,3014.25
+153,HomeGoods,Los Fresnos,14852 Jenna Avenue,Soup Campbells Beef With Veg,1,1,4703.19,396
+154,Ross Stores,Skórzec,8566 Clove Hill,Milk - Buttermilk,8,9,4920.5,3824.41
+155,Burlington Coat Factory,Tama,0200 Westport Circle,"Soup - French Onion, Dry",4,3,3506.06,2794.59
+156,Family Dollar,Moreira de Geraz do Lima,260 Kinsman Street,Chicken - Tenderloin,3,11,784.59,2677.96
+157,Ben Franklin,Wang Saphung,12375 Almo Junction,Beer - Heinekin,8,6,3551.12,392.03
+158,Big Lots,Kerek,46 Schlimgen Hill,Browning Caramel Glace,11,9,3866.51,3219.08
+159,Bi-Mart,Huanglong,43 Spohn Crossing,Tobasco Sauce,10,12,3275.24,1122.51
+160,Big Lots,Lukou,3440 Mcbride Court,Coffee - Decaffeinato Coffee,2,3,677.02,3576.91
+161,Walmart,Na Chueak,9630 Dahle Hill,Cheese - Brick With Pepper,12,3,1794.03,1972.21
+162,Stein Mart,Shangcun,68257 Bellgrove Way,Chip - Potato Dill Pickle,1,9,2640.79,1918.18
+163,Costco,Velká nad Veličkou,1497 Cordelia Point,Peppercorns - Green,9,2,3669.86,2424.82
+164,Meijer,Ya’erya,49695 Quincy Alley,Island Oasis - Peach Daiquiri,5,8,2659.51,909.04
+165,Ocean State Job Lot,Sandur,84 Bellgrove Lane,Sage Derby,1,3,738.3,1598.55
+166,Target,Kyzyldzhar,17 Kim Circle,"Pork - Bacon, Sliced",12,3,4538.53,2283.39
+167,Ollie's Bargain Outlet,Talhār,00109 Forest Run Point,Goat - Whole Cut,9,1,4478.08,2382.32
+168,Gabe's,Pélla,35736 Lukken Drive,"Tart Shells - Sweet, 3",3,1,4559.5,2245.58
+169,Roses,Lanyi,76813 Hoffman Crossing,Bay Leaf Fresh,6,3,2996.94,1977.59
+170,HomeSense,Arcos,688 Hanover Road,"Cheese - Brie,danish",6,2,4572.7,2595.83
+171,Walmart,Thị Trấn Cẩm Thủy,2514 Summit Court,Longos - Cheese Tortellini,4,3,2185.29,3082.08
+172,Gabe's,Thị Trấn Nguyên Bình,8 Milwaukee Way,Sunflower Seed Raw,3,7,3880.11,2233.93
+173,Bargain Hunt,Bojong,72321 Stuart Road,Beef - Tenderloin Tails,3,4,760.49,1435.68
+174,Target,Corgo,22 Mifflin Junction,Paper Towel Touchless,3,3,2431.84,1578.98
+175,Ben Franklin,Jhumra,8425 Mandrake Point,Muffin Mix - Carrot,1,11,1947.53,408.31
+176,Roses,Phoenix,40477 Caliangt Center,Sambuca Cream,8,11,746,185.2
+177,Renys,Si Khoraphum,17793 Chinook Parkway,Plasticforkblack,2,7,3062.84,2811.54
+178,T.J. Maxx,Zhongshanlu,0124 Kingsford Hill,"Cheese - Brie,danish",4,1,1272.82,2820.24
+179,Tuesday Morning,Iporã,26176 Acker Pass,"Pasta - Detalini, White, Fresh",10,1,4083.95,2315.66
+180,Ocean State Job Lot,Qiaobian,581 Buhler Parkway,Napkin White,2,7,636.3,1925.71
+181,Walmart,Klau,82167 Russell Junction,Cup Translucent 9 Oz,7,12,3006.88,523.8
+182,Family Dollar,Sioguí Arriba,1 Canary Center,"Juice - Apple, 500 Ml",1,1,776.45,829.26
+183,Ben Franklin,Cergy-Pontoise,6 Westend Plaza,Wine - Kwv Chenin Blanc South,6,11,4813.5,2654.2
+184,Ollie's Bargain Outlet,Åkersberga,4 Cascade Terrace,"Beets - Candy Cane, Organic",2,4,1267.44,3156.96
+185,Bargain Hunt,Guamal,5 Autumn Leaf Pass,Table Cloth 54x72 Colour,3,4,259.95,2073.49
+186,BJ's Wholesale Club,Lesnikovo,82 Trailsway Junction,Flour - Teff,5,3,3762.18,409.73
+187,Shopko,Gudauta,3 Bashford Park,Cheese - Pont Couvert,3,2,485.28,2418.27
+188,Burlington Coat Factory,Kizlyar,65 Melvin Court,Chocolate Liqueur - Godet White,4,4,2302.39,3604.41
+189,Shopko,Dresden,417 Ilene Lane,Brandy Cherry - Mcguinness,10,1,2872.45,3358.21
+190,Shopko,Bi’r al Ḩufayy,595 Sugar Street,"Lemonade - Island Tea, 591 Ml",10,1,2290.08,1175.01
+191,Ollie's Bargain Outlet,Västerås,8 Vidon Place,Loquat,7,10,1947.85,314.98
+192,Walmart,Pordapor Barat,655 Union Center,Beer - Blue,11,1,3829.57,3997.24
+193,Dollar Tree,Portland,0 Merry Hill,"Mushroom - Morels, Dry",10,9,3851.46,2339.54
+194,Roses,Trawniki,13 Chinook Way,Pears - Bartlett,5,5,338.42,856.3
+195,Ocean State Job Lot,Padang,3627 Elka Center,"Tart Shells - Sweet, 4",9,2,413.55,25.03
+196,Walmart,Ōarai,57004 Sauthoff Avenue,"Wine - Red, Black Opal Shiraz",12,12,4484.7,3443.08
+197,Renys,Abengourou,71593 Macpherson Way,Yogurt - Assorted Pack,12,10,3601.77,3817.95
+198,Kmart,Dongli,7022 Toban Crossing,Shark - Loin,6,1,4997.48,1044.65
+199,Costco,Dubna,45038 Commercial Avenue,Apricots - Dried,9,4,1236.25,2136.57
+200,Five Below,Xiaoruo,68 Jenna Parkway,Scampi Tail,6,8,4360.84,3935.58
+201,Fred Meyer,Sult,223 Old Gate Trail,Kolrabi,8,9,2078.25,940.14
+202,Marshalls,Joubb Jannîne,79174 Eliot Plaza,"Garlic - Primerba, Paste",9,9,3759.19,3205.32
+203,Tuesday Morning,Sunnyvale,5428 Judy Hill,"Pork - Tenderloin, Fresh",9,5,3447.43,2223.39
+204,Ollie's Bargain Outlet,Frakulla e Madhe,33113 Arizona Avenue,"Soup - Knorr, Country Bean",2,7,508.74,486.56
+205,Ocean State Job Lot,Khasavyurt,052 Di Loreto Circle,Shichimi Togarashi Peppeers,1,12,3062.85,847.89
+206,T.J. Maxx,Gentilly,308 Forest Run Pass,Shortbread - Cookie Crumbs,2,12,4459.72,3332.63
+207,Ollie's Bargain Outlet,Yotala,303 Atwood Way,Shrimp - Tiger 21/25,4,10,574.84,1739.84
+208,Ocean State Job Lot,Lingkou,86009 Summer Ridge Alley,Ice Cream Bar - Drumstick,3,8,3690.38,2633.39
+209,Ollie's Bargain Outlet,Garhi Khairo,125 Lakewood Gardens Trail,Island Oasis - Ice Cream Mix,4,1,255.19,157.24
+210,Fred's,Mezhevoy,677 David Alley,Ice Cream Bar - Hagen Daz,4,9,900.64,1743.65
+211,Roses,Strasbourg,2457 Northfield Circle,Squash - Guords,9,3,2352.43,693.48
+212,Meijer,Huangnaihai,16 Welch Avenue,Tomato - Peeled Italian Canned,6,1,2806.45,1149.31
+213,Shopko,Phuthaditjhaba,09 Reindahl Drive,Chips - Doritos,6,11,3392.91,3324.04
+214,HomeSense,Łaszczów,56979 Goodland Court,Nantucket - 518ml,11,10,3438.02,907.19
+215,Bi-Mart,Kanoni,95 Clove Court,Vinegar - Sherry,9,11,3978.58,1035.43
+216,Dollar Tree,Santo António das Areias,80659 Crownhardt Junction,"Beets - Candy Cane, Organic",5,11,3066.29,1628.06
+217,Marshalls,Rekovac,35 Thackeray Road,"Tarragon - Primerba, Paste",12,2,694.49,1851.24
+218,BJ's Wholesale Club,Shitang,8 Bobwhite Road,Salt And Pepper Mix - White,11,9,299.96,164.26
+219,Gabe's,Polanka Wielka,4 Lerdahl Circle,Whmis - Spray Bottle Trigger,11,12,183.89,3632.69
+220,Burlington Coat Factory,Sanhe,2629 Pennsylvania Lane,Vodka - Moskovskaya,4,7,3979.93,3311.37
+221,Target,Sukhinichi,06038 Talisman Park,Syrup - Monin - Granny Smith,12,7,4898.24,1332.98
+222,Gordmans,Sandaogou,60 Dennis Crossing,Muffin - Carrot Individual Wrap,2,6,4457.48,1407.51
+223,Ocean State Job Lot,San Antonio del Monte,14 Mariners Cove Alley,Mix Pina Colada,12,10,976.07,1978.42
+224,Ben Franklin,Darkūsh,8 Monica Alley,"Pasta - Spaghetti, Dry",7,11,3554.38,3455.35
+225,Costco,Tabaquite,084 Starling Crossing,Cheese - Colby,5,3,1650.49,3839.11
+226,Stein Mart,Ercheng,8 Pleasure Drive,"Veal - Brisket, Provimi,bnls",10,3,4566.49,1139.22
+227,Gabe's,Astorga,131 Everett Circle,Wine - Clavet Saint Emilion,9,5,3188.83,2226.06
+228,Big Lots,Orlando,96660 Arapahoe Road,Cake - Mini Potato Pancake,12,8,1746.45,1273.31
+229,Fred's,Sośnicowice,4844 Valley Edge Park,Chevril,8,7,2750.83,717.43
+230,Renys,Çepan,9 Knutson Point,Peas Snow,9,2,113.65,2816.57
+231,Renys,Calamba,935 Delladonna Way,Pate Pans Yellow,10,11,3458.26,3687.32
+232,Ben Franklin,Louka,447 Barnett Place,Bread Base - Toscano,7,12,1956.48,1143.87
+233,Bargain Hunt,Göteborg,4 Lawn Lane,"Pasta - Fusili, Dry",4,7,254.24,335.4
+234,T.J. Maxx,Jiaoxie,494 Artisan Junction,Pork Ham Prager,12,2,887.8,3663.62
+235,Family Dollar,Korop,2 Sullivan Pass,Sauce - Balsamic Viniagrette,1,3,3769.55,71.02
+236,Fred Meyer,Saint-Joseph-de-Coleraine,84 Aberg Crossing,"Mushrooms - Black, Dried",1,7,2761.6,378
+237,Stein Mart,Sukaratu,9957 Gerald Alley,Bread Bowl Plain,6,1,2835.04,2600.3
+238,Costco,Ayia Napa,0826 Sachs Way,"Pepper - Green, Chili",2,3,4287.16,3476.19
+239,Family Dollar,Zbraslav,9 Vahlen Pass,Container - Foam Dixie 12 Oz,4,5,385.24,3960.32
+240,Burlington Coat Factory,Cileueur,7752 Barby Center,Lid - 3oz Med Rec,4,1,156.16,2427.24
+241,T.J. Maxx,Yinglong,0 Montana Court,Tray - 16in Rnd Blk,9,9,1503.85,1592.29
+242,Harbor Freight Tools,Banjar Pasekan,1 Londonderry Park,Extract - Raspberry,9,7,4503.86,1481.5
+243,Big Lots,Dřiteň,81811 Debra Pass,Potato - Sweet,5,10,914.36,665.42
+244,Harbor Freight Tools,Leon,1 Fulton Hill,Goat - Whole Cut,11,4,337.78,883.33
+245,Burlington Coat Factory,Lian’an,2 Express Pass,Coffee - Hazelnut Cream,10,7,219.09,22.81
+246,HomeSense,Krasnyy Klyuch,6 3rd Junction,Yoplait - Strawbrasp Peac,11,3,3477.73,3162.92
+247,Five Below,Galatás,22 Northland Plaza,Veal - Leg,11,5,545.52,3586.27
+248,Kmart,Sabanitas,7330 John Wall Place,Sultanas,1,2,3588.77,3615.97
+249,National Stores,Ōmagari,26 Straubel Hill,Cake - Pancake,4,3,1941.26,1427.96
+250,Dd's Discounts,Jianmin,1 Grover Trail,Chicken Thigh - Bone Out,6,11,2079.22,2427.09
+251,Five Below,Umm Sa‘īd,55750 Village Way,Lettuce - Escarole,6,5,2249.08,944.11
+252,Harbor Freight Tools,Olofström,58626 Morning Pass,"Carrots - Purple, Organic",7,8,1839.13,176.2
+253,Stein Mart,Lauro de Freitas,37754 La Follette Avenue,Hand Towel,6,9,1640.4,3502.72
+254,Ross Stores,San Ignacio de Tupile,03 Debs Crossing,Sprouts - Brussel,6,5,717.64,398.71
+255,BJ's Wholesale Club,Buesaco,904 Mockingbird Junction,Beef - Prime Rib Aaa,5,10,2471.24,1290.24
+256,Shopko,San Jose,613 Gerald Trail,Beef - Tenderloin - Aa,5,8,3361.11,1048.58
+257,National Stores,Mistřice,925 Pennsylvania Parkway,Bonito Flakes - Toku Katsuo,4,8,3234.55,1727.23
+258,Stein Mart,Télimélé,10 Burning Wood Parkway,Bagel - Sesame Seed Presliced,11,5,3179.41,1220.79
+259,Ben Franklin,Edineţ,06 Mcbride Junction,Triple Sec - Mcguinness,6,3,4938.7,3455.29
+260,Fred Meyer,Carapelhos,50607 Schurz Junction,Wine - Cousino Macul Antiguas,1,11,3992,3535.95
+261,Gabe's,Fenghuo,5 Ohio Junction,"Lentils - Green, Dry",12,2,2589.29,453.66
+262,T.J. Maxx,Pedrulheira,7905 Eastwood Crossing,Beef - Kobe Striploin,10,4,2105.98,923.92
+263,Marshalls,Anaheim,256 Grover Lane,Lobster - Live,12,5,368.47,973.29
+264,National Stores,Ljungskile,60899 Westport Way,"Wine - Magnotta - Red, Baco",9,7,227.51,1574.68
+265,Kmart,Ernestinovo,70933 Heffernan Street,Foil - 4oz Custard Cup,3,8,1609.61,1867.37
+266,Marshalls,Yu’erhong,4 Crownhardt Crossing,Ginger - Crystalized,4,3,1910.89,1300.13
+267,Ben Franklin,Barreiro,462 Sunbrook Drive,Eggwhite Frozen,8,6,1305.06,2345.03
+268,Costco,Tomdibuloq,99 Evergreen Parkway,Spice - Chili Powder Mexican,6,3,483.69,550.27
+269,Dollar General,Massenya,769 Meadow Ridge Junction,Sword Pick Asst,7,9,390.85,2624.04
+270,Renys,Yuanba,3 Upham Park,"Tarragon - Primerba, Paste",10,1,3395.37,3405.86
+271,Burlington Coat Factory,Leipzig,727 Goodland Center,Butcher Twine 4r,12,2,1765.64,2143.27
+272,Gordmans,Fengli,73345 Briar Crest Point,"Wine - White, Riesling, Semi - Dry",1,2,3974.01,1253.92
+273,Kmart,Ordem,4 Derek Alley,Bread Base - Italian,4,12,999.79,301.69
+274,Target,Mitzpe Ramon,0 Lakeland Junction,Peas - Frozen,3,3,4912.08,1704.57
+275,Costco,Myski,50689 La Follette Alley,Tart - Lemon,6,10,973.23,1542.55
+276,Fred Meyer,Boca de Uchire,8407 Manitowish Alley,Coffee - Irish Cream,9,7,1184.34,3674.29
+277,Walmart,Kiel,1830 Forest Dale Parkway,Kumquat,11,5,4235.26,3162.73
+278,T.J. Maxx,Susaki,2613 Shoshone Drive,Flower - Commercial Bronze,7,1,1607.31,343.32
+279,Kmart,Hamburg,36 Brickson Park Hill,Strawberries - California,9,4,1687.81,3381.54
+280,Gabe's,Jalālpur Pīrwāla,09471 1st Circle,Wine - Magnotta - Cab Franc,3,5,3749.87,1410.94
+281,Five Below,Singkir,23 Doe Crossing Center,Foam Tray S2,11,2,706.94,2512.06
+282,Gabe's,Bor Ondor,6 Chinook Alley,"Pork - Loin, Center Cut",11,12,2980.15,2603.19
+283,HomeSense,Batagay-Alyta,589 Norway Maple Park,Bread - Granary Small Pull,5,7,3620.02,202
+284,Gabe's,Plyussa,175 Melby Terrace,Five Alive Citrus,2,3,827.25,104.63
+285,Dd's Discounts,København,87927 Riverside Parkway,Horseradish - Prepared,2,6,765.37,2533.68
+286,Walmart,Baijiang,881 Eagan Way,Island Oasis - Ice Cream Mix,2,3,2774.36,1400.19
+287,T.J. Maxx,Bacong,31187 Maywood Trail,Veal - Bones,6,11,1396.01,188.62
+288,Renys,Kotabaru,93957 Kim Avenue,"Crab - Claws, Snow 16 - 24",4,2,2291.95,2003.7
+289,Five Below,Hønefoss,9 Harbort Alley,Gatorade - Lemon Lime,6,5,1946.39,2563.31
+290,Burlington Coat Factory,Magisterial,15 Pawling Alley,"Jam - Raspberry,jar",10,12,936.15,399.57
+291,Fred Meyer,Nizhneivkino,31 Mcguire Road,Lettuce - Curly Endive,7,9,2554.87,217.19
+292,National Stores,Adare,73 Mcbride Way,"Quail - Whole, Boneless",6,4,79.93,2150.31
+293,Ben Franklin,Yan Nawa,946 Waywood Pass,Ecolab Crystal Fusion,3,7,3854.76,166.32
+294,Marshalls,Klumbu,59345 Dryden Court,Shopper Bag - S - 4,10,9,750.03,984.46
+295,BJ's Wholesale Club,Maonon,9616 6th Circle,Muffin - Bran Ind Wrpd,5,4,1935.99,350.8
+296,Gabe's,Krajansumbermujur,02 Rieder Road,"Sauce - White, Mix",10,9,3354.72,3290.11
+297,Fred Meyer,Göteborg,5804 Summit Lane,Marjoram - Fresh,1,1,1270.02,978.6
+298,Fred Meyer,Miskolc,019 Utah Pass,Hog / Sausage Casing - Pork,3,2,3233.9,2839.41
+299,Harbor Freight Tools,Kakhovka,59902 Fisk Road,Kaffir Lime Leaves,2,11,4967.84,3094.09
+300,Ross Stores,Tokushima-shi,98 American Alley,Beef - Kobe Striploin,12,11,2399.39,2044.38
+301,Dollar Tree,Raduzhnyy,88 Almo Junction,Wheat - Soft Kernal Of Wheat,2,3,1773.58,1676.53
+302,Ben Franklin,Mealhada,1879 Aberg Drive,Soap - Pine Sol Floor Cleaner,2,8,3595.06,1651.77
+303,Kmart,Krajan Tanjungrejo,9 Melby Crossing,Scallops - Live In Shell,2,6,4713.23,3228.85
+304,Meijer,‘Afrīn,3647 Hermina Road,Rum - Mount Gay Eclipes,12,12,415.19,2128.82
+305,Burlington Coat Factory,Cungking,17985 Anderson Terrace,"Oregano - Dry, Rubbed",6,7,651.72,247.38
+306,Ocean State Job Lot,Sigay,05 Atwood Drive,Cake - Night And Day Choclate,1,10,3861.29,2977.56
+307,Ollie's Bargain Outlet,Łobez,15 Mesta Alley,Tomatoes,11,2,4959.5,3073.36
+308,BJ's Wholesale Club,Białaczów,95130 Columbus Terrace,White Baguette,8,8,2203.93,1634.94
+309,Fred's,Portela,8 Lunder Terrace,Vaccum Bag - 14x20,9,5,1912.98,152.57
+310,HomeSense,Morohongō,8072 Aberg Alley,Vinegar - Raspberry,7,1,2312.33,1183.05
+311,National Stores,Yugawara,2183 Paget Terrace,Longos - Chicken Caeser Salad,2,12,4402.67,3067.07
+312,HomeSense,La Mula,1 Del Mar Way,"Jam - Strawberry, 20 Ml Jar",7,6,2408.41,3683.69
+313,Burlington Coat Factory,Timpas,2 Roth Park,Wine - Merlot Vina Carmen,1,8,4920.97,2445.59
+314,Five Below,Vacov,795 Sloan Avenue,"Oil - Olive, Extra Virgin",4,3,489.78,3700.73
+315,HomeGoods,Baizhu,49989 Lerdahl Center,Table Cloth 90x90 Colour,7,10,4173.33,157.03
+316,Stein Mart,Stockholm,7774 Eliot Junction,Cabbage - Green,10,8,3884.59,3485.17
+317,Burlington Coat Factory,Purong,2 Oak Circle,Oil - Margarine,6,3,283.39,3624.68
+318,Fred's,Jince,2399 Artisan Junction,Glass Clear 7 Oz Xl,1,8,1952.93,572.12
+319,Shopko,Eaubonne,060 Merry Pass,Oil - Safflower,6,10,2184.78,3548.76
+320,Family Dollar,Antioquia,74 Aberg Trail,Wine - Domaine Boyar Royal,4,10,1659.69,432.04
+321,Dollar General,Turochak,28505 Farragut Way,Pimento - Canned,1,7,3147.44,319.33
+322,T.J. Maxx,Río Tercero,36 Main Pass,Sauce - Sesame Thai Dressing,4,11,3687.85,3556.53
+323,Stein Mart,Stockholm,0966 Mayfield Street,Jerusalem Artichoke,12,12,1121.51,3308.93
+324,T.J. Maxx,Rathwire,7480 Main Drive,Eggplant Oriental,9,6,4523.75,481.04
+325,Dd's Discounts,Zheleznogorsk,9609 Menomonie Lane,Versatainer Nc - 888,9,6,3043.05,3762.93
+326,Costco,Qui Nhon,7 Arapahoe Court,Juice - Orangina,12,11,4530.29,3715.74
+327,Gabe's,Qianjin,71705 Brown Alley,External Supplier,2,8,1694.4,3716.68
+328,Dollar General,Sambong,79768 Hudson Terrace,Pan Grease,9,9,1357.8,2242.87
+329,Burlington Coat Factory,Shashemenē,3 Hayes Court,Onions Granulated,4,9,1070.5,2689.38
+330,Gabe's,Kingston,9270 2nd Way,Beets - Pickled,4,12,586.48,3866.26
+331,Ben Franklin,Dayeuhluhur,9449 Mallory Street,Glass Clear 8 Oz,12,12,4360.22,2939.88
+332,Ollie's Bargain Outlet,Muang Pakxan,22711 Shelley Park,Beer - Maudite,12,3,3556.79,2860.04
+333,Ross Stores,Saskatoon,36 Little Fleur Lane,Cleaner - Comet,3,6,4934.53,924.88
+334,Roses,Muang Sam Sip,63 Briar Crest Drive,Goldschalger,5,1,1055.57,3999.06
+335,Target,Banatski Despotovac,25 Toban Road,Olives - Stuffed,2,3,4406.79,315.99
+336,Tuesday Morning,Lordelo,66727 Dixon Street,Bouillion - Fish,2,9,3455.83,2220.83
+337,Shopko,Batojaran,0 Hallows Hill,Wine - Cousino Macul Antiguas,5,2,2524.75,3674.94
+338,Ben Franklin,Yanzhao,633 Arrowood Way,Rosemary - Fresh,3,10,4927.69,1667.63
+339,Shopko,Pefkochóri,24 Oak Valley Alley,Brandy Apricot,9,1,3229.32,1012.8
+340,HomeGoods,Tayginka,32 Bluestem Park,Thyme - Fresh,10,8,2472.71,1471.37
+341,Stein Mart,Shimen,8402 Luster Parkway,Shrimp - Black Tiger 26/30,11,3,17.54,309.23
+342,Gabe's,Uritsk,799 Johnson Crossing,Longos - Burritos,5,1,2742.12,1418.36
+343,Gabe's,Šluknov,35426 Armistice Point,Beef - Tenderloin Tails,9,6,1757.4,2013.34
+344,Ross Stores,Białośliwie,277 Loftsgordon Plaza,Honey - Liquid,10,5,3215.34,998.18
+345,Ollie's Bargain Outlet,Jiangpan,8753 Autumn Leaf Circle,"Juice - Apple, 1.36l",11,4,4717.99,607.19
+346,BJ's Wholesale Club,Paitan Este,6 Green Junction,Plasticspoonblack,1,6,4284.6,2286.73
+347,Ollie's Bargain Outlet,Otun,7 Merchant Way,Ecolab - Hobart Upr Prewash Arm,12,2,2746.44,387.8
+348,Ollie's Bargain Outlet,Partizan,038 Hovde Junction,Cheese Cloth,1,12,4098.89,2446.84
+349,Ollie's Bargain Outlet,Angoulême,0 Truax Crossing,Wooden Mop Handle,8,1,3640.87,338.88
+350,Bargain Hunt,Sośnie,28 Dennis Pass,Herb Du Provence - Primerba,3,12,115.77,2421.82
+351,Dollar Tree,Melikkrajan,1 Fordem Way,Asparagus - Frozen,8,10,2030.62,524.83
+352,Harbor Freight Tools,Oklahoma City,4310 Hollow Ridge Street,Cotton Wet Mop 16 Oz,7,5,36.51,426.47
+353,HomeSense,Póvoa,2 Calypso Park,Momiji Oroshi Chili Sauce,2,9,4244.64,3185.03
+354,Fred's,Sapotskin,710 Summerview Parkway,Beer - Creemore,5,8,2744.63,573.83
+355,Meijer,Itapema,41 Scott Parkway,Table Cloth 62x114 White,6,10,778.32,3356.86
+356,Marshalls,Mulan,6965 School Point,Sugar - Icing,5,9,1496.29,3190.86
+357,Fred's,Qingjiang,05547 Mendota Plaza,Sausage - Andouille,4,5,3642.3,3084.08
+358,BJ's Wholesale Club,Longping,8 Redwing Way,Wine - Riesling Dr. Pauly,8,3,3102.62,2802.76
+359,Harbor Freight Tools,Karlstad,75 Haas Trail,Bread - Rye,11,10,3938.64,3993.84
+360,Ross Stores,Anambongan,22 Barby Point,Venison - Striploin,10,1,1867.33,2314.69
+361,T.J. Maxx,Tōgane,7908 Lukken Hill,Wine - Shiraz Wolf Blass Premium,8,8,1930.64,1391.38
+362,Ben Franklin,El Bolsón,22 Mariners Cove Crossing,Veal - Heart,12,9,254.48,540.51
+363,Walmart,Chornobay,51591 Morning Trail,Emulsifier,2,7,942.8,1674.56
+364,Marshalls,Sousse,3516 Bay Pass,Salami - Genova,3,11,769.65,2661.7
+365,Fred's,Kagay,0055 Annamark Terrace,Raspberries - Fresh,4,12,345.45,858.66
+366,Harbor Freight Tools,Susapaya,863 Rockefeller Park,Flavouring - Orange,6,12,2780.95,3084.99
+367,Ocean State Job Lot,Petrovskoye,208 Barnett Junction,Salmon - Fillets,2,2,1200.24,3553.85
+368,Renys,Aveiras de Cima,10134 Luster Park,Lotus Leaves,9,10,4969.51,1953.19
+369,Dd's Discounts,Yonghe,4309 Grayhawk Park,Cheese - Marble,8,7,2728.97,3612.63
+370,Gordmans,Bryansk,313 Transport Court,Red Currants,6,8,2927.14,1316.51
+371,Ben Franklin,Pyhäselkä,12 Northwestern Court,Pepper - Cubanelle,7,1,4902.1,2929.42
+372,Walmart,Matriz de Camaragibe,2 Texas Lane,Melon - Honey Dew,7,3,3872.39,811.49
+373,Family Dollar,Feilaixia,91558 Dawn Parkway,Lemonade - Pineapple Passion,1,7,2063.43,522.54
+374,National Stores,Ngunguru,5787 Dexter Hill,Carrots - Jumbo,8,12,1511.81,505.72
+375,Dollar Tree,Pokrov,5193 Moland Hill,Arizona - Green Tea,5,2,1930.83,2116.87
+376,Meijer,Krajan,26030 Green Lane,Spic And Span All Purpose,9,3,1748.4,1349.26
+377,Walmart,Ágios Vasíleios,47909 John Wall Avenue,Steamers White,11,2,385.19,2103.71
+378,Fred's,Pavlovskaya,7 Moland Avenue,"Yogurt - Cherry, 175 Gr",2,4,1786.69,1474.72
+379,Roses,Benito Juarez,4891 School Trail,Crackers - Soda / Saltins,7,10,3729.73,793.75
+380,Costco,Donnacona,3 Arapahoe Avenue,Sauce - Fish 25 Ozf Bottle,3,11,198.29,912.07
+381,Stein Mart,Richibucto,545 Division Point,Cream - 10%,9,3,2070.88,895.09
+382,Costco,Brumadinho,24 Florence Terrace,"Beef - Bones, Marrow",4,12,217.26,3746.53
+383,Ross Stores,Yunguyo,4193 Clove Crossing,Cotton Wet Mop 16 Oz,3,12,1505.71,1096.59
+384,Ben Franklin,Akita,88 Sunfield Trail,Pork - Smoked Back Bacon,11,7,3726.64,3698.24
+385,Ben Franklin,Kyperoúnta,0 Bartelt Point,Wine - Montecillo Rioja Crianza,12,2,575.9,1148.24
+386,Gabe's,Krabi,10155 Mifflin Center,Cream - 35%,11,8,2957.65,1418.15
+387,Harbor Freight Tools,San Antonio Oeste,7356 South Drive,Cardamon Seed / Pod,3,8,3518.08,1279.72
+388,T.J. Maxx,Rozwadza,0 North Place,Chutney Sauce,9,1,1369.75,2721.29
+389,T.J. Maxx,Huiyuan,9152 Fremont Alley,"Squash - Pattypan, Yellow",5,12,3282.9,297.48
+390,Dollar Tree,Fika,586 Ruskin Park,"Pork - Back, Long Cut, Boneless",6,6,3905.04,3501.78
+391,Family Dollar,Ćićevac,9773 Glacier Hill Terrace,Ice Cream - Fudge Bars,10,11,242.74,2513.57
+392,Fred's,Shilibu,04 Sheridan Street,"Pepper - Green, Chili",2,11,4454.25,1832.2
+393,Walmart,Dinan,25 Corscot Road,Chivas Regal - 12 Year Old,12,10,4683.74,924.4
+394,Family Dollar,Hato Mayor del Rey,4 South Road,Gingerale - Diet - Schweppes,12,5,1669.53,1713.76
+395,Five Below,Kaniv,1 Barby Way,Onions - Cooking,9,8,322.17,1626.52
+396,HomeGoods,Batakte,542 Browning Place,Wine - Chateau Aqueria Tavel,7,6,4373.58,2531.51
+397,Roses,Shuanggang,11 Bellgrove Junction,"Yogurt - Banana, 175 Gr",8,10,2174.53,2593.68
+398,Dollar General,Macapá,9680 Ronald Regan Hill,Dried Figs,6,8,4850.03,2461.42
+399,Target,Mengcheng Chengguanzhen,5 Armistice Hill,Lamb Leg - Bone - In Nz,1,2,2399.76,2043.16
+400,Dollar General,Kulia Village,56 Trailsway Place,Lettuce - Baby Salad Greens,8,5,4106.41,505.33
+401,Kmart,Bardo,608 Pennsylvania Crossing,Cheese - Mozzarella,9,9,2868,1893.01
+402,Ollie's Bargain Outlet,Liang,75 Rieder Avenue,Bagel - Sesame Seed Presliced,8,7,4144.25,2891.2
+403,Family Dollar,Kórnik,0 Spenser Road,"Lemonade - Black Cherry, 591 Ml",7,2,4662.5,686.73
+404,Fred Meyer,Maoping,23 Beilfuss Street,Coffee Cup 16oz Foam,11,2,569.3,3259.25
+405,Family Dollar,La Plata,0 Bartillon Pass,"Juice - Clamato, 341 Ml",10,7,1594.99,3577.63
+406,Meijer,Jubung,31 Upham Park,Bread - Multigrain,5,10,679.93,2843.3
+407,Walmart,Gielniów,1062 Brickson Park Pass,Beer - Mill St Organic,5,7,726.09,2792.84
+408,HomeSense,Baishi,47 Garrison Drive,Olives - Kalamata,6,10,2942.77,3537.66
+409,Dollar General,Freiburg im Breisgau,560 Sunbrook Place,"Lamb - Loin, Trimmed, Boneless",8,7,4194.83,1554.62
+410,Ben Franklin,Haveliān,6634 6th Street,Oil - Avocado,10,10,680.99,2321.52
+411,Walmart,Ibaraki,53066 Sycamore Pass,"Cake Circle, Foil, Scallop",1,12,3413.05,805.87
+412,Burlington Coat Factory,Smederevo,12 Jana Point,Table Cloth 54x72 Colour,6,2,3358.2,3841.52
+413,Bi-Mart,Kasimov,5 Merrick Way,Pepper - Chili Powder,6,8,4996.09,2865.93
+414,Costco,Newton,3 South Park,Beans - French,12,1,3261.36,556.37
+415,Burlington Coat Factory,Youkounkoun,76 Golden Leaf Trail,Guava,9,9,2275.29,2962.59
+416,Kmart,La Seyne-sur-Mer,6877 Hooker Hill,Curry Powder,8,1,561.69,2248.16
+417,Ben Franklin,Citampian,88110 Walton Street,Wine - Montecillo Rioja Crianza,12,1,882.14,2771.73
+418,Gordmans,Outeiro Seco,521 Pierstorff Pass,Rice - Aborio,9,2,2578.02,1008.1
+419,Shopko,Altos,7537 Maywood Place,"Potatoes - Instant, Mashed",9,7,4527.55,2034.88
+420,Kmart,La Libertad,6423 Vahlen Court,"Lamb - Whole Head Off,nz",12,3,2067.36,3366.38
+421,Marshalls,Cimara,4633 Marquette Way,Bacardi Limon,8,9,3614.48,1952.06
+422,Dollar General,Jindui,01 Brickson Park Center,Devonshire Cream,2,11,2564.39,3931.55
+423,Dollar General,Granada,21952 Hagan Alley,Country Roll,8,1,3313.29,906.21
+424,Ocean State Job Lot,Serov,8 Westerfield Hill,"Coke - Classic, 355 Ml",6,11,3639.83,151.16
+425,Fred's,Heichengzi,211 Hovde Terrace,Sauce - Hp,10,6,3230.23,2439.71
+426,National Stores,Caobi,4 Fallview Trail,Table Cloth 144x90 White,12,10,1728.12,3859.06
+427,T.J. Maxx,Lyubim,9 Morningstar Crossing,Eggplant Oriental,2,8,4134.84,2327.65
+428,Walmart,Älvsjö,7 Mayfield Crossing,Lettuce - Boston Bib - Organic,6,6,4945.52,1758.94
+429,Five Below,Tonantins,496 Heffernan Park,Black Currants,2,5,3643.8,3168.49
+430,Marshalls,Lingion,3 Trailsway Trail,Wine - Fume Blanc Fetzer,1,11,3985.88,3289.56
+431,Ross Stores,Itacurubí del Rosario,8 Roxbury Parkway,Mustard - Seed,6,7,1082.82,2233.5
+432,Kmart,Santa Marta de Penaguião,8 Burrows Circle,"Stock - Chicken, White",8,5,4447.36,620.6
+433,Roses,Shiraoi,00 Clemons Street,"Quail - Whole, Bone - In",8,4,1328.69,1961.69
+434,Ben Franklin,Viseu,693 Shasta Center,"Placemat - Scallop, White",7,12,2581.85,2240.95
+435,Gordmans,Xinshui,2474 Upham Plaza,Remy Red Berry Infusion,7,1,2054.37,2340.15
+436,Dollar General,Sucre,590 Cottonwood Park,Eggroll,12,9,2995.35,1373.22
+437,Ben Franklin,Pailles,66509 Porter Hill,Beans - Green,8,1,755.77,638.59
+438,Gabe's,Yisa,23 American Circle,Bagel - Sesame Seed Presliced,7,10,3235.39,3321.88
+439,Dollar Tree,Mopti,52658 Doe Crossing Crossing,Lamb - Sausage Casings,8,5,2468.77,3851.12
+440,Kmart,Lokot’,6742 Lillian Center,Clams - Canned,12,5,1919.38,863.56
+441,Walmart,Meiqi,329 Blackbird Crossing,Vector Energy Bar,8,2,3390.97,955.43
+442,Bargain Hunt,Ciudad Nueva,51 Twin Pines Point,Chutney Sauce,3,7,3543.14,3260.24
+443,Shopko,Bantengan,8710 Lillian Point,Crackers - Water,4,8,2533.03,503.52
+444,Kmart,Puerto Quellón,070 Thierer Alley,Gherkin,3,8,1511.7,276.89
+445,T.J. Maxx,Jianggu,69567 Loomis Plaza,"Nut - Hazelnut, Ground, Natural",6,3,1854,3654.65
+446,Dd's Discounts,Doloplazy,4763 Northport Center,Flower - Leather Leaf Fern,4,10,200.02,2178.46
+447,Ross Stores,Joroan,591 Continental Drive,Onion Powder,2,3,4902.45,803.01
+448,Gordmans,Marston,4 Elka Street,"Turkey - Breast, Double",9,3,1507.46,726.93
+449,Five Below,Červená Voda,8 Boyd Court,Flour - Semolina,11,2,2124.43,2993.2
+450,Ollie's Bargain Outlet,København,25 Scoville Crossing,"Bread - Roll, Canadian Dinner",7,8,1348.57,1233.75
+451,Costco,Cerinza,10025 Kenwood Park,"Pail - 4l White, With Handle",8,12,1186.52,2715.37
+452,Gabe's,Ribas,6 Glendale Terrace,Breadfruit,3,5,2649.82,2432.37
+453,Gordmans,Magdeburg,6339 Village Green Street,Tomato Paste,9,1,1923.86,2836.84
+454,Family Dollar,Covão,476 Sauthoff Park,Cumin - Ground,3,10,1555.81,2345.4
+455,Ben Franklin,Haiyu,743 Continental Terrace,"Juice - Grape, White",3,3,4299.39,1234.11
+456,Burlington Coat Factory,Bergen op Zoom,7 Mallard Pass,Pastry - Chocolate Chip Muffin,12,6,2370.91,3900.19
+457,Walmart,Purac,7140 Springview Pass,Lettuce - Belgian Endive,10,9,1955.55,3877.33
+458,Harbor Freight Tools,Victoria,79408 Grover Drive,Five Alive Citrus,3,10,4978.55,2271.07
+459,Meijer,Skoczów,74 Dryden Trail,Vol Au Vents,11,10,3222.99,738.41
+460,Bargain Hunt,Sendai,2183 Ryan Avenue,"Wine - White, Ej",6,11,2466.32,1675.72
+461,Renys,Abades,6814 Corscot Park,Soup - Tomato Mush. Florentine,8,5,4514.05,3601.71
+462,Roses,Bulnes,1 Drewry Crossing,Sambuca Cream,8,10,3757.78,2983.67
+463,Ben Franklin,Madalena do Mar,51695 Northland Court,"Veal - Chops, Split, Frenched",12,12,4005.48,215.31
+464,Renys,Curridabat,304 Charing Cross Park,Vinegar - Cider,9,2,4613.92,1417.7
+465,Dollar Tree,Consuelo,6 Portage Lane,Daikon Radish,3,10,1009.92,3192.08
+466,Walmart,Bích Động,0855 Eagan Lane,Ginger - Ground,1,8,1542.84,1147.05
+467,Renys,Jalālābād,93 Meadow Ridge Lane,Squid - U - 10 Thailand,7,5,1219.41,607.17
+468,Bargain Hunt,Fresnes,48292 Stoughton Avenue,Wine - Baron De Rothschild,2,11,3187.44,3720.26
+469,Shopko,Macha,704 Garrison Road,Samosa - Veg,10,4,1835.75,645.25
+470,Dollar Tree,Mushu,4 Kedzie Parkway,"Orange - Canned, Mandarin",11,4,1756.6,1136.29
+471,BJ's Wholesale Club,Petro-Slavyanka,98 Monterey Drive,Pastry - Choclate Baked,11,3,4702.62,32.8
+472,Ben Franklin,Hafrsfjord,2 Summit Terrace,Parsley Italian - Fresh,2,1,2444.52,1431.95
+473,Fred's,‘Amd,551 Nancy Way,Bacardi Raspberry,4,1,4403.27,2214.61
+474,T.J. Maxx,Kemil,1 Schmedeman Crossing,"Cheese - Cheddar, Old White",11,2,612.02,249.67
+475,Five Below,Cẩm Phả Mines,59 Westridge Hill,Towel Dispenser,11,5,3414.38,2538.77
+476,Tuesday Morning,Boljoon,6 Comanche Place,Beer - Creemore,10,9,3657.74,1393.9
+477,Bargain Hunt,San Antonio,197 Mayer Avenue,Spice - Paprika,11,5,2589.79,1317.38
+478,Renys,Pochep,173 Riverside Pass,"Tendrils - Baby Pea, Organic",3,6,3047.92,49.18
+479,Tuesday Morning,Itagüí,5 Cottonwood Crossing,"Iced Tea - Lemon, 460 Ml",11,9,2615.08,1195.15
+480,Gabe's,Pinggang,36 Homewood Trail,Oil - Grapeseed Oil,3,5,4094.67,3301.46
+481,HomeSense,Saint-Lô,057 Vernon Plaza,Lambcasing,8,4,3889.38,597.13
+482,Ocean State Job Lot,Barreiras,2 Iowa Avenue,Eggplant Italian,3,6,2599.15,721.68
+483,HomeGoods,Visby,10883 West Way,Tea - Green,11,3,3619.12,1741.73
+484,Dollar General,Táriba,3798 Homewood Park,Potatoes - Mini Red,3,7,1376.44,3274.37
+485,Ocean State Job Lot,Telpaneca,76237 Lien Center,Wine - Dubouef Macon - Villages,9,6,1458.52,3353.29
+486,Dd's Discounts,Jincheng,548 Jana Terrace,Ginger - Fresh,6,10,3891.26,1131.93
+487,Ocean State Job Lot,Kauran,0 Cambridge Trail,"Trout - Rainbow, Frozen",10,3,4903.32,3367.85
+488,Ben Franklin,Kostyantynivka,05700 Eagle Crest Circle,Wine - Riesling Dr. Pauly,1,12,894.5,466.92
+489,Fred Meyer,Helie,51 Springview Plaza,Oil - Olive Bertolli,1,12,4532.22,2249.14
+490,Roses,Comillas Norte,05870 Hintze Circle,Banana - Green,10,8,1819.58,2004.21
+491,Family Dollar,Akráta,7535 Dawn Road,"Halibut - Whole, Fresh",10,1,4956.82,1346.63
+492,Ollie's Bargain Outlet,Soacha,81 Petterle Trail,Ham - Procutinni,8,4,403.45,2047.21
+493,Dollar Tree,Vardablur,7311 Southridge Avenue,Beer - Pilsner Urquell,10,12,2675.5,2426.37
+494,National Stores,Mozi,4 Dixon Junction,Bag - Regular Kraft 20 Lb,12,11,4214.07,2743.43
+495,Dd's Discounts,Qesarya,67754 Fallview Junction,Lamb - Rack,2,10,4785.67,1326.25
+496,Burlington Coat Factory,Yantian,1 Alpine Avenue,Cup - 8oz Coffee Perforated,6,10,243.37,2078.1
+497,Target,El Refugio,1737 Hudson Hill,Mushroom - Crimini,9,9,2254.73,3638.8
+498,Ross Stores,Taganskiy,82744 Bonner Terrace,Wine - Balbach Riverside,12,4,2851.53,882.71
+499,Renys,San Rafael,34927 Algoma Point,French Kiss Vanilla,4,12,3951.2,3599.34
+500,Marshalls,Fareydūnshahr,26230 Nova Hill,Tea - Vanilla Chai,2,3,3190.16,57.39
+501,Meijer,Albania,0969 Menomonie Drive,"Beef - Outside, Round",12,8,2081.66,3304.39
+502,Ross Stores,Cochabamba,900 Johnson Terrace,Milk - Buttermilk,4,2,3547.73,1764.79
+503,Tuesday Morning,Kingersheim,7 Westend Circle,Dasheen,8,1,4343.93,1305.79
+504,Meijer,Saint-Brieuc,9327 Eastwood Avenue,Chef Hat 25cm,8,10,2265.98,1167.7
+505,Family Dollar,Ngkiong,2 Clyde Gallagher Street,Daves Island Stinger,9,4,197.13,2100.98
+506,Roses,Sokol,88 Stephen Terrace,Compound - Pear,5,2,4704.75,3180.09
+507,Fred Meyer,Kawaguchi,60 Magdeline Plaza,Momiji Oroshi Chili Sauce,8,7,2759.07,3705.96
+508,Meijer,Uvarovo,6 Dwight Way,Compound - Raspberry,3,6,4259.15,1761.43
+509,Ross Stores,Xibali,95 Mccormick Center,"Nut - Almond, Blanched, Ground",9,9,4774.51,3366.71
+510,National Stores,Jinshanwei,9 Spaight Road,Blackberries,6,12,2523.28,1920.45
+511,Walmart,Purwojoyo,985 West Road,Puree - Strawberry,4,5,1837.99,3191.61
+512,Renys,Émpa,59 8th Lane,Gloves - Goldtouch Disposable,11,9,927.93,2554.05
+513,Ocean State Job Lot,Huaniao,67664 Atwood Court,"Lamb - Whole, Frozen",8,6,2147.98,888.88
+514,T.J. Maxx,Ciego de Ávila,6 Stang Circle,Canada Dry,6,10,4184.93,1239.92
+515,Marshalls,Vårby,2076 Esch Avenue,Tumeric,4,6,2622.64,2290.61
+516,Walmart,Gorey,4 Anniversary Plaza,Lotus Rootlets - Canned,8,3,2200.31,371.86
+517,Bargain Hunt,Liuhe,46 Myrtle Pass,"Turkey - Breast, Double",6,7,747.63,1949.45
+518,Five Below,Roberval,0 Fairview Junction,Fruit Salad Deluxe,7,2,4937.21,452.15
+519,HomeSense,Dongdong,994 Monument Junction,Wine - Ej Gallo Sierra Valley,12,1,1498.63,1258.38
+520,Meijer,Medaya,058 Fairfield Place,Fond - Neutral,7,5,3909.74,2416.72
+521,Shopko,Zhuangke,6 Summit Avenue,Veal - Kidney,8,1,1834.47,2137.7
+522,Kmart,Benoni,8 Hoard Point,"Beets - Candy Cane, Organic",7,6,2359.82,814.66
+523,Five Below,Limulan,680 Ramsey Road,Appetizer - Tarragon Chicken,7,3,2195.08,3624.05
+524,Family Dollar,Makiwalo,81 Corscot Avenue,Garbage Bags - Black,2,12,3764.11,1882.97
+525,Ocean State Job Lot,Herzliya Pituah,5 Pankratz Way,Horseradish Root,10,12,951.87,3303.49
+526,HomeGoods,Nanhe,38 Leroy Park,Beef Ground Medium,2,11,2985.05,206.26
+527,Five Below,Tanzybey,55 Hoepker Road,Water - Spring 1.5lit,3,5,3655.13,1230.08
+528,Marshalls,Huangqiang,84326 Texas Parkway,Cumin - Whole,4,7,585.41,572.87
+529,Marshalls,Caridade,53 Mitchell Way,Compound - Passion Fruit,3,6,2284.46,2869.1
+530,Renys,Ros’,7484 Valley Edge Way,"Pepper - Green, Chili",4,2,4094.73,2253.37
+531,Stein Mart,Muromtsevo,8946 Crescent Oaks Center,Soup - Campbells - Tomato,7,3,2039.3,110.89
+532,Dollar Tree,Rajsko,70523 Dixon Parkway,Crab - Soft Shell,9,6,4620.4,3671.22
+533,Marshalls,Kobylí,47963 Bartelt Point,Wine - Red Oakridge Merlot,6,5,2218.86,2367.02
+534,Ross Stores,Matamey,70990 Oxford Crossing,Pepper - Pablano,9,10,3082.43,933.02
+535,Ollie's Bargain Outlet,Jāwā,818 Farwell Trail,Yams,2,12,518,550.05
+536,HomeSense,Santa Catarina Ixtahuacán,4489 Heath Alley,"Crab - Back Fin Meat, Canned",3,6,2638.26,3655.81
+537,Big Lots,Vin’kivtsi,0462 Iowa Lane,Beer - Paulaner Hefeweisse,6,5,2492.81,3775.37
+538,Harbor Freight Tools,Bibai,632 Petterle Junction,Chicken - Soup Base,3,10,2730.47,1905.3
+539,Ben Franklin,Brooklyn,997 Dunning Way,Poppy Seed,2,7,4555.35,438.28
+540,Ross Stores,Beiwucha,38 Lakewood Gardens Hill,Table Cloth 90x90 Colour,11,1,1514.64,113.14
+541,Big Lots,Moshenskoye,351 Pawling Hill,Pork - Backfat,5,12,2033.95,3279.76
+542,Gordmans,Lasiana,5169 Waywood Court,"Squash - Pattypan, Yellow",1,3,1121.38,441.52
+543,Stein Mart,Caen,63 Marcy Crossing,"Beef - Baby, Liver",4,12,3361,118.44
+544,Gordmans,Gaotuo,2386 Raven Junction,Roe - White Fish,7,11,4116.02,137.1
+545,Harbor Freight Tools,Jianping,83 Melrose Terrace,Cheese - Sheep Milk,12,7,911.21,571.32
+546,Meijer,Omsk,51152 Independence Alley,"Sauce - White, Mix",9,1,4340.38,1727.51
+547,Costco,Jenzan,4 Gale Drive,Praline Paste,6,3,365.5,600.51
+548,Fred's,Onsala,62920 Kings Lane,Wine - Zinfandel Rosenblum,1,4,4375.7,2703.11
+549,Five Below,Mount Frere,0 Starling Pass,Muffin Carrot - Individual,10,5,4434.16,392.74
+550,Family Dollar,Sindangbarang,04830 Sloan Way,Chocolate Bar - Coffee Crisp,6,5,1749.61,3807.29
+551,Costco,Ngeru,27 Menomonie Hill,Cleaner - Bleach,8,4,437.07,308.86
+552,Renys,Sandviken,678 Evergreen Lane,Cheese - Comte,3,12,4907.42,3013.09
+553,T.J. Maxx,San Felipe,0385 Rockefeller Plaza,Fruit Mix - Light,7,9,105.4,952.96
+554,Five Below,Tilburg,10759 Homewood Avenue,"Pasta - Gnocchi, Potato",2,6,3519.97,1926.88
+555,Ollie's Bargain Outlet,Krian,730 Buell Way,"Veal - Tenderloin, Untrimmed",11,10,1413.99,3389.28
+556,Burlington Coat Factory,Mount Pearl,14 Lotheville Avenue,Pie Filling - Pumpkin,2,12,358.84,3809.31
+557,Ben Franklin,Petrolera,8435 Tony Place,Sorrel - Fresh,8,7,811.85,3971.24
+558,Ocean State Job Lot,Antrukan,35 Division Park,Eggplant - Baby,2,3,2187.31,1629.94
+559,Ollie's Bargain Outlet,Qiting,84871 Union Crossing,Pork - Side Ribs,9,9,904.23,1638.33
+560,Ross Stores,Kabanga,686 Swallow Terrace,Wine - Marlbourough Sauv Blanc,8,10,832.17,2638.57
+561,Walmart,Columbus,81058 Goodland Place,Pepper - Sorrano,11,2,1718.23,1999.61
+562,Gabe's,Yangqiaodian,32 Dunning Circle,Liners - Baking Cups,8,6,443.47,782.28
+563,Bi-Mart,Tarogong,29216 Fisk Place,Coffee - French Vanilla Frothy,4,1,4495.3,2975.04
+564,Costco,Lachowice,80622 Center Drive,"Water - Mineral, Carbonated",4,2,3227.38,3088.5
+565,National Stores,Banraeaba Village,96 Marquette Court,Cup Translucent 9 Oz,10,12,451.39,2902.99
+566,Burlington Coat Factory,Kamensk-Shakhtinskiy,6172 Pennsylvania Park,Mini - Vol Au Vents,6,3,2995.93,1716.73
+567,Ben Franklin,L-Iklin,34790 Menomonie Place,Raspberries - Fresh,4,11,1931.27,1445.52
+568,Tuesday Morning,Wonokerto,3332 Oxford Park,Parsley - Dried,1,4,1454.53,3023.37
+569,Big Lots,Srono,7756 Bay Street,"Cake Circle, Paprus",6,10,1823.1,217.01
+570,T.J. Maxx,Klimontów,3 Hollow Ridge Court,"Sauce - Gravy, Au Jus, Mix",8,6,2720.6,3531.64
+571,Shopko,Mosteiros,49 Mockingbird Drive,Juice - Orangina,4,7,3838.31,1923.64
+572,Costco,Seshcha,747 Basil Pass,Chinese Foods - Plain Fried Rice,10,1,3026.83,2984.75
+573,HomeSense,Slovenske Konjice,8 Nobel Avenue,Mangoes,8,5,1318.33,3150.27
+574,Kmart,Manjacaze,65 Daystar Court,Smoked Paprika,5,9,3089.49,3173.74
+575,Burlington Coat Factory,Qarshi,04 Superior Junction,Cookies - Assorted,12,4,1402.95,2796.2
+576,Dd's Discounts,Amaigbo,68 Tennyson Place,Vanilla Beans,2,12,4134.03,1355.38
+577,Ben Franklin,Karinë,90992 Forest Drive,Jack Daniels,7,1,4720.26,1904.85
+578,Harbor Freight Tools,Wang Sombun,61 Corscot Alley,Cocoa Powder - Natural,8,12,12.27,1976.32
+579,Gabe's,San Andrés,4 Debra Court,Appetizer - Mango Chevre,8,1,123.57,975.48
+580,Fred's,Yunmen,3 Laurel Terrace,"Veal - Inside Round / Top, Lean",3,9,2949.91,908.56
+581,Dd's Discounts,Jamaica,256 Vera Terrace,Island Oasis - Lemonade,3,9,2182.01,229.84
+582,HomeSense,Rancagua,78595 Southridge Drive,Kumquat,4,2,2180.11,2450.21
+583,Shopko,Yamoussoukro,915 Crowley Circle,Smoked Paprika,9,12,2217.87,2266.77
+584,HomeGoods,Javorník,68 Hoffman Park,"Doilies - 12, Paper",12,12,1520.31,102.06
+585,Fred's,Beixiaoying,57 Gerald Street,Shopper Bag - S - 4,7,11,4992.41,3772.57
+586,Bargain Hunt,Sattahip,1642 Mccormick Trail,"Sugar - Sweet N Low, Individual",3,6,2972.79,3623.47
+587,Marshalls,Podu,5 Moulton Junction,Shiratamako - Rice Flour,1,12,4492.45,3031.33
+588,Tuesday Morning,Pailles,326 Waubesa Alley,Wine - Tio Pepe Sherry Fino,1,8,4146.75,3541.45
+589,Big Lots,Miura,2282 Waxwing Point,"Chicken - Thigh, Bone In",3,8,4513.41,150.21
+590,Bi-Mart,Novogireyevo,718 Merchant Center,Wine - Wyndham Estate Bin 777,12,12,4842.18,67.03
+591,Burlington Coat Factory,Balrothery,23 Novick Crossing,Muffin Orange Individual,4,6,1656.38,3987.42
+592,Dollar Tree,San Bernardo,6 Commercial Trail,Vol Au Vents,11,12,3438.53,2258.7
+593,Roses,‘Anīn,96 Gateway Parkway,Ice Cream - Strawberry,4,11,2349.9,3273.66
+594,Dd's Discounts,Międzyrzecz,8613 Arapahoe Terrace,"Appetizer - Mini Egg Roll, Shrimp",9,3,628.02,2116.83
+595,Walmart,Lis,0 Cambridge Court,Chicken - Wieners,6,4,1965.42,1667.53
+596,Ben Franklin,Ndano,24 Burning Wood Point,Breadfruit,10,8,3980.62,988.23
+597,Bargain Hunt,Bahe,15 Harbort Road,Foam Dinner Plate,10,3,432.79,1739.46
+598,Ocean State Job Lot,Jardín América,68 Di Loreto Park,Lobak,4,5,1251.15,1196.3
+599,Renys,Kochani,6 Stone Corner Street,Sauce - Salsa,9,6,2342.32,3339.48
+600,Costco,Kuanchuan,75 Waxwing Plaza,Nantucket Orange Juice,10,1,2001.96,265.55
+601,Renys,Donghe,9 Kingsford Terrace,Remy Red,10,9,2799.87,810.43
+602,Shopko,Warmare,64671 Hintze Center,Jameson Irish Whiskey,3,8,3889.27,2666.73
+603,Ollie's Bargain Outlet,Gendiwu,26 Sutherland Place,Sugar - White Packet,8,1,4931.64,1780.87
+604,Renys,Mŭynoq,3767 Lotheville Pass,Nut - Pumpkin Seeds,11,8,2271.63,2544
+605,Shopko,San Javier,4 Carioca Court,"Beans - Black Bean, Dry",11,1,1814.02,1107.29
+606,Family Dollar,Hastings,73 Jackson Street,Pork - Shoulder,4,8,4341.73,2522.54
+607,Costco,Hekinan,86 Lakeland Trail,"Soup - Campbells, Beef Barley",12,3,401.74,812.11
+608,Five Below,Concepción,6 Bunker Hill Park,"Loaf Pan - 2 Lb, Foil",11,1,1821.36,670.48
+609,Gordmans,Bodzentyn,93903 Maple Parkway,Spice - Montreal Steak Spice,7,4,77.87,3832.85
+610,Dollar General,Xihu,498 Marquette Point,Sherry - Dry,7,12,2241.92,442.12
+611,Tuesday Morning,Awsīm,0 Morningstar Street,Pie Shell - 5,4,1,3145.22,832.49
+612,Fred Meyer,Gongju,40 Transport Alley,"Cake Circle, Paprus",2,10,811.52,575.28
+613,Fred's,Karakol,5712 Portage Junction,Oil - Olive,10,6,974.54,1037.99
+614,Fred's,Yangqiao,45 Forest Run Circle,"Vodka - Lemon, Absolut",9,11,3207.39,3500.87
+615,Renys,Gaojian,4 Arizona Terrace,Bread - Italian Sesame Poly,3,1,745.46,2742.37
+616,Dollar Tree,Bahay Pare,146 Dunning Avenue,Sole - Iqf,3,2,1323.99,66.7
+617,Kmart,Montego Bay,9153 Luster Lane,Cup Translucent 9 Oz,2,10,3802.97,625.46
+618,Shopko,Jianba,906 Melody Avenue,"Soup - Knorr, Classic Can. Chili",4,5,1187.5,2606.6
+619,Gordmans,Złotniki Kujawskie,7103 Truax Crossing,"Wine - Red, Mouton Cadet",6,2,828.33,3787.99
+620,Dollar General,Pozuzo,09 Haas Drive,"Bread - Multigrain, Loaf",3,8,1272.88,241.19
+621,Costco,Penha,7 Starling Junction,Tuna - Sushi Grade,9,2,530.29,3822.6
+622,Renys,Corralito,0540 6th Street,Truffle Paste,10,6,3826.43,888.44
+623,Dollar Tree,Mozzozzin Sur,927 Namekagon Center,"Pasta - Fettuccine, Dry",12,8,4766.13,1649.64
+624,Fred Meyer,Novorossiysk,4440 Melrose Junction,Clams - Canned,10,4,3526.54,3271.94
+625,Family Dollar,Gweru,32352 Pond Pass,Fireball Whisky,8,11,3720.31,747.98
+626,Fred Meyer,Yangxi,59550 Kim Park,Sugar - Icing,2,6,2104.67,1005.37
+627,Gabe's,Kakan,4 Village Center,Cheese - Brie,11,3,329.37,1156.05
+628,Kmart,Sentieiras,96 Amoth Hill,Chicken Breast Halal,5,11,120.39,3821.63
+629,Meijer,Praia da Tocha,1 Hovde Junction,Beef - Tenderloin Tails,2,11,1039.14,2928.65
+630,Family Dollar,Untolovo,55 Ohio Street,Eggroll,5,1,4446.8,1425.83
+631,Walmart,Sevan,92 Del Sol Alley,Duck - Legs,4,8,3739.71,3226.89
+632,HomeSense,Caherconlish,1857 Kennedy Alley,Oil - Margarine,2,10,1234.52,441.27
+633,Meijer,Ruteng,3375 Muir Street,Pasta - Agnolotti - Butternut,12,4,3339.63,239.12
+634,Stein Mart,Talitsa,88 Oxford Hill,Bols Melon Liqueur,2,4,1997.71,932.12
+635,Target,Wierzchowo,9 Randy Road,Cheese - Comtomme,8,12,813.64,1384.44
+636,Dd's Discounts,Patos Fshat,6362 Eastwood Court,"Coconut - Shredded, Unsweet",2,11,2878.14,1227.32
+637,Bi-Mart,Kaoma,02135 Lake View Pass,Assorted Desserts,5,7,3298.12,3632.13
+638,Target,Jingning Chengguanzhen,831 Oxford Way,Muffin - Banana Nut Individual,7,4,2072.75,2735.07
+639,Roses,Umanday Centro,62 Park Meadow Point,"Pork - Sausage, Medium",10,12,1564.37,3650.47
+640,Stein Mart,Mingfeng,52504 Northwestern Court,Cabbage - Red,8,7,2306.18,256.53
+641,HomeGoods,Chinchero,29 7th Place,Fruit Mix - Light,4,1,617.61,1570.91
+642,Harbor Freight Tools,Kallithéa,9404 Orin Circle,Bread - Pita,8,4,1668.66,1742.16
+643,Stein Mart,Wanglian,05 Upham Road,Mushroom Morel Fresh,4,1,725.18,1622.03
+644,HomeGoods,Xilai,2188 Fieldstone Park,Five Alive Citrus,12,1,980.41,2072.1
+645,Roses,Nueva Esperanza,01 Anhalt Point,Muffin - Banana Nut Individual,9,10,2952.54,2719.18
+646,Dollar General,Tak Bai,96 Dovetail Lane,Fenngreek Seed,8,8,924.41,3882.32
+647,T.J. Maxx,Dayr Abū Ḑa‘īf,791 Corben Lane,Vanilla Beans,8,10,4115.56,213.65
+648,Marshalls,Zhongluotan,0925 Lerdahl Lane,"Veal - Tenderloin, Untrimmed",7,8,3417.17,337.95
+649,Ross Stores,Palayan City,2 Forest Dale Plaza,"Sparkling Wine - Rose, Freixenet",9,1,1601.03,3361.32
+650,Fred's,Nao,9667 Troy Plaza,Tuna - Salad Premix,7,9,2213.28,786.76
+651,Big Lots,Yushu,715 Debra Crossing,"Beans - Long, Chinese",9,2,3787.31,1120.56
+652,Walmart,Pāshmūl,3719 Moose Alley,Sunflower Seed Raw,8,1,3441.91,1892.09
+653,HomeSense,Bauru,09719 Canary Plaza,Napkin Colour,4,10,668.87,1297.97
+654,Big Lots,Zaria,39 Crest Line Terrace,"Pasta - Lasagne, Fresh",2,8,999.55,1194.63
+655,HomeSense,Świdwin,5 Fuller Center,"Pasta - Rotini, Colour, Dry",2,4,3174.73,66.96
+656,BJ's Wholesale Club,Bensonville,3659 Longview Drive,Cake Slab,3,11,590.26,1348.59
+657,Fred's,Providencia,16386 Mayer Way,"Wine - White, Mosel Gold",10,7,3211,3994.67
+658,Walmart,Adelaide,369 Fairfield Pass,Wine - Carmenere Casillero Del,4,4,1216.92,954.1
+659,Ben Franklin,Quba,375 Elgar Parkway,Chocolate - Compound Coating,5,8,4883.06,782.74
+660,BJ's Wholesale Club,Perbaungan,6532 Barnett Way,Cake - Bande Of Fruit,8,8,2841.84,895.38
+661,HomeGoods,Buenos Aires,1809 Melrose Street,"Beef - Rib Roast, Capless",8,8,4194.11,3872.21
+662,Shopko,Passo Fundo,6 Reinke Point,Bread - Bistro White,5,2,4288.02,137.74
+663,Dd's Discounts,Bodø,26 Ryan Avenue,Raspberries - Frozen,11,2,4472.32,3346.13
+664,Roses,Veiga,22 Carberry Crossing,Cheese - Goat,1,9,598.75,1163.12
+665,Dd's Discounts,New Haven,8011 Monterey Center,Tart - Pecan Butter Squares,7,10,2693.28,3336.86
+666,National Stores,Cahul,6 Old Gate Junction,Pectin,4,4,680.18,3424.06
+667,Five Below,Heping,22 Bartillon Junction,Beef - Top Butt Aaa,3,3,853.41,3025.28
+668,BJ's Wholesale Club,Sumberrejo,9474 Rutledge Junction,Swiss Chard - Red,5,8,4074.42,491.44
+669,Ross Stores,Gibsons,43642 Erie Trail,Scrubbie - Scotchbrite Hand Pad,6,10,1058.71,2892.28
+670,Tuesday Morning,Banyutengah,822 Vernon Point,Sauce - Vodka Blush,4,1,2635.76,3687.22
+671,HomeGoods,Irvine,0278 Manley Terrace,"Pasta - Linguini, Dry",1,6,809.43,12.93
+672,Stein Mart,Västra Frölunda,3133 Farragut Center,Urban Zen Drinks,4,8,4223.83,1968.77
+673,National Stores,Fiães,1370 Scott Alley,Beef - Tenderloin Tails,4,12,3854.92,3597.45
+674,Gabe's,Baing,01619 Sunfield Street,"Oil - Olive, Extra Virgin",8,3,2391.21,1247.51
+675,Meijer,Skutskär,740 Blackbird Junction,Goulash Seasoning,4,4,3751.91,3877.75
+676,Five Below,Colombia,89458 Veith Center,"Syrup - Monin, Amaretta",6,4,463.17,2825.89
+677,Dollar General,Corralillo,78 Towne Place,"Tart Shells - Sweet, 2",9,7,1114.05,3895.52
+678,Fred's,Longtanping,98132 Sugar Hill,Soho Lychee Liqueur,7,1,4029.72,2621.51
+679,Meijer,Poręba Spytkowska,4706 Dorton Hill,Cheese - Le Cheve Noir,3,12,167.69,3206.27
+680,HomeGoods,Costa Sacate,09458 Dovetail Place,Bagel - Whole White Sesame,7,6,1545.62,480.25
+681,Dd's Discounts,Jega,442 Claremont Junction,Bread - Pumpernickel,4,5,4751.08,3321.43
+682,Gordmans,Borzna,0 Prairieview Point,"Chocolate - Milk, Callets",6,6,3550.52,3062.96
+683,Ollie's Bargain Outlet,Emiliano Zapata,8 Glendale Drive,Yoplait - Strawbrasp Peac,1,4,3172.8,477.08
+684,HomeGoods,Saint Petersburg,520 Grim Pass,Nut - Pumpkin Seeds,12,8,949.03,1003.87
+685,Dollar Tree,Mazamet,1 American Ash Court,Muffin Puck Ww Carrot,5,9,2473.54,1877.88
+686,Shopko,Bistrica pri Tržiču,516 Village Crossing,Lettuce - Romaine,8,5,2685.13,524.7
+687,BJ's Wholesale Club,Melchor Ocampo,666 Hoffman Drive,Cheese - Ermite Bleu,5,12,3660.46,318.16
+688,Harbor Freight Tools,Vallentuna,2552 Cascade Drive,Breakfast Quesadillas,8,1,1784.09,790.18
+689,T.J. Maxx,Babao,040 Dexter Street,Kahlua,9,6,2909.2,751.14
+690,Ocean State Job Lot,Chengdong,1 Novick Parkway,Bread - Pain Au Liat X12,6,10,4163.84,1734.78
+691,HomeSense,Mendi,7 Rutledge Place,Wine - Bouchard La Vignee Pinot,3,8,1545.96,133.85
+692,Renys,Kaleybar,4 Swallow Junction,Juice - Lemon,6,1,310.79,1870.5
+693,BJ's Wholesale Club,Sarapul,20859 Debra Point,"Wine - White, Colubia Cresh",10,10,540.65,1218.38
+694,Stein Mart,Kaduluhur,09391 Vernon Terrace,Ecolab - Solid Fusion,3,10,82.89,1963.92
+695,Ben Franklin,Oganlima,85959 Everett Lane,Mayonnaise,10,1,893.27,560.47
+696,Fred Meyer,Paço,698 Anniversary Point,Sauce - Vodka Blush,3,6,3700.4,1173.27
+697,Shopko,Nîmes,67421 Village Junction,Wine - German Riesling,11,11,119.23,911.98
+698,Meijer,Vendychany,3 Monica Way,Trueblue - Blueberry,11,7,2472.44,3820.74
+699,Tuesday Morning,Talā,0284 Kipling Terrace,Hand Towel,4,12,2721,3084.19
+700,Bi-Mart,Cihaur,5557 Tennessee Avenue,Lid Tray - 12in Dome,4,11,2848.81,3188.01
+701,Gabe's,Chekmagush,6398 Badeau Park,Water Chestnut - Canned,10,7,1627.96,785.97
+702,Tuesday Morning,La Eduvigis,9234 Schlimgen Circle,Container Clear 8 Oz,11,7,1384.87,3341.69
+703,Meijer,Xunzhai,873 Northwestern Crossing,Wine La Vielle Ferme Cote Du,3,4,541.52,1018.56
+704,Dollar General,Turija,89 Ramsey Plaza,Sunflower Seed Raw,3,9,310.44,829.78
+705,Bi-Mart,Pantang,0 Meadow Vale Hill,Tray - 12in Rnd Blk,12,3,1118.06,3153.06
+706,Burlington Coat Factory,Tulyushka,72331 Boyd Place,Sugar - White Packet,9,1,3043.22,550.49
+707,Target,Falkenberg,0431 Aberg Center,Wine - Savigny - Les - Beaune,3,3,4161.73,90.25
+708,HomeGoods,Bystra,6236 Delladonna Parkway,Sauce - Oyster,5,1,4057.24,1999.87
+709,Costco,Valencia,0157 Village Avenue,"Flour - Buckwheat, Dark",9,10,4927.02,285.85
+710,Burlington Coat Factory,Novoanninskiy,49 Donald Parkway,Wine - Stoneliegh Sauvignon,6,8,2630.13,927.41
+711,Meijer,Cheremnoye,34 Bayside Center,Island Oasis - Lemonade,1,7,3927.26,3842.86
+712,Walmart,Floreşti,71 Wayridge Point,Daves Island Stinger,4,4,1261.16,3940.54
+713,Ocean State Job Lot,Fanyang,5377 Burrows Hill,Glass Clear 7 Oz Xl,7,2,3444.67,1254.53
+714,Dd's Discounts,Uruçuca,66 Ilene Place,Melon - Cantaloupe,3,12,1676.68,2362.32
+715,Shopko,Huangjinbu,953 Cody Avenue,Cookie - Oatmeal,10,12,3639.5,2137.04
+716,T.J. Maxx,San Francisco,002 Karstens Crossing,Squash - Butternut,1,1,2945.88,964.28
+717,HomeGoods,Mtubatuba,162 Farragut Point,Pants Custom Dry Clean,9,10,3410.4,3630.66
+718,Dollar General,Mpulungu,78740 Waxwing Circle,"Beef - Tongue, Fresh",4,1,521.98,3030.54
+719,Gordmans,Haibara,27 Norway Maple Terrace,Yukon Jack,9,2,3954.16,1019.2
+720,National Stores,Rio Piracicaba,18533 Harbort Road,Tequila - Sauza Silver,5,12,3373.26,3073.14
+721,Fred's,Pasirhuni,864 Ridgeway Pass,Tea - Grapefruit Green Tea,4,4,1687.34,3129.78
+722,Shopko,Purut,4 Mcbride Way,Pork - Ground,5,4,718.53,2711.71
+723,Tuesday Morning,Kaulon,49 Darwin Pass,Table Cloth 62x120 Colour,5,7,4234.01,3748.9
+724,Harbor Freight Tools,Rzeczenica,901 Gale Parkway,Cheese - Grana Padano,10,4,613.57,488.98
+725,Roses,Konëvo,54 Emmet Point,Sambuca - Opal Nera,2,3,1411.16,1664.48
+726,Renys,Paris 15,7183 Fairview Alley,Tart - Lemon,2,5,3651.89,2638.82
+727,Walmart,Sapataria,881 Lakewood Gardens Point,Soup - Campbells Chili Veg,2,9,2800.55,1744.65
+728,Ollie's Bargain Outlet,Growong Lor,35 Kinsman Crossing,Foil Wrap,10,7,2287.14,1259.47
+729,HomeGoods,Nueva Fuerza,70872 Northland Alley,Soup Campbells - Italian Wedding,6,5,2050.63,3282.64
+730,Tuesday Morning,Fukuechō,7 Meadow Vale Alley,Lettuce - Red Leaf,5,7,1153.62,821.28
+731,Burlington Coat Factory,Pitalito,3 Arapahoe Plaza,Cheese - St. Andre,4,8,4859.33,648.9
+732,Shopko,Baume-les-Dames,8 Fairfield Hill,Cheese - Cambozola,3,8,4188.87,2327.55
+733,Big Lots,Jianping,59492 Macpherson Center,Stainless Steel Cleaner Vision,8,4,1099.87,1819.92
+734,Ben Franklin,Bridgetown,05 Graceland Court,Longos - Chicken Caeser Salad,11,3,733.87,83.55
+735,Dollar Tree,Lugovoy,12 Waubesa Park,Cloves - Ground,7,5,3237.02,105
+736,Meijer,Novonikol’sk,976 Rusk Junction,"Water, Tap",8,9,4208.01,2175.6
+737,Fred's,Bolinao,2 Buena Vista Drive,"Quail - Whole, Bone - In",1,12,3832.6,1120.23
+738,Family Dollar,Ząbkowice Śląskie,81 Milwaukee Street,Sherry - Dry,7,2,1034.86,874.6
+739,Stein Mart,Jinji,01 Mallory Drive,"Bread - Roll, Soft White Round",2,8,2933.94,1304.68
+740,Roses,Bilicenii Vechi,64 Hazelcrest Junction,Oil - Sunflower,12,11,2473.11,2722.25
+741,Ben Franklin,Na Klang,4653 Ludington Court,Chicken - Whole Roasting,9,7,1265.01,1564.62
+742,Gabe's,Loukísia,4104 Kings Drive,Steam Pan - Half Size Deep,1,10,4483.08,1650.62
+743,HomeSense,Pringgoboyo,8 Sommers Way,Galliano,8,11,4929.16,2105.41
+744,Meijer,Creighton,3776 Rigney Road,Rabbit - Whole,8,9,1631.06,3659.79
+745,Big Lots,Hŭngju-dong,4650 Linden Road,Rice - Aborio,12,3,2238.91,1323.89
+746,Dollar Tree,Artsvaberd,3867 Arapahoe Hill,The Pop Shoppe - Grape,9,4,1912.09,2478.73
+747,Burlington Coat Factory,Lille,974 Mallory Alley,Chips Potato Salt Vinegar 43g,3,1,2968.67,3116.54
+748,Dollar Tree,Shchukino,7 Fairfield Drive,Radish - Pickled,7,1,3392.17,3956.37
+749,Ross Stores,Samdrup Jongkhar,1891 Mallory Terrace,Rice - Long Grain,3,6,1211.82,3542.26
+750,HomeGoods,Agenebode,251 Mallard Trail,Sausage - Andouille,7,3,4132.95,2109.27
+751,Ben Franklin,Naifaru,30 Columbus Crossing,Mortadella,1,12,3246.04,3815.15
+752,HomeGoods,Longxi,504 Dorton Parkway,Kellogs Special K Cereal,4,6,2121.17,807.13
+753,National Stores,Golomunta,48605 Holmberg Park,Strawberries - California,2,7,4223.29,376.79
+754,Fred Meyer,Jevremovac,2 Butternut Pass,Pail With Metal Handle 16l White,7,12,4754.61,3109.79
+755,Harbor Freight Tools,Baolong,68238 Pierstorff Hill,Leeks - Large,6,5,815.87,2617.09
+756,Shopko,Taraban Timur,008 Manley Pass,Trout Rainbow Whole,11,8,2829.84,3813.85
+757,Meijer,Carpenter,03754 Northport Park,Toothpick Frilled,4,7,459.61,3527.74
+758,Fred's,Fencheng,2564 Buell Park,Onion - Dried,2,10,3808.63,385.24
+759,Marshalls,Monastir,05 Judy Terrace,Quail - Jumbo,8,8,1354.16,425.58
+760,T.J. Maxx,Rancabuaya,82 Warbler Circle,"Pork - Bacon, Sliced",3,12,3488.49,3868.44
+761,Five Below,Plumtree,3089 Porter Drive,Tomatoes - Cherry,8,3,3662.24,740.86
+762,Fred's,Lišov,06 High Crossing Street,"Beef - Baby, Liver",10,5,4717.54,2812.87
+763,HomeGoods,Paso de Indios,811 Rockefeller Avenue,Chicken - Soup Base,3,5,3010.6,182.69
+764,National Stores,Checacupe,0 Cambridge Drive,Rice Paper,6,12,2252.99,2329.06
+765,HomeSense,Cachoeiras de Macacu,52636 Roth Place,Soup - Chicken And Wild Rice,7,2,1709.8,164.19
+766,BJ's Wholesale Club,Baghlān,849 Upham Road,Rum - Mount Gay Eclipes,1,1,2967.76,415.33
+767,Shopko,Rakszawa,79 Bayside Point,Bread - Dark Rye,5,8,2992.24,3872.53
+768,Stein Mart,Palhoça,4 Rockefeller Point,Energy - Boo - Koo,12,4,2563.41,583.03
+769,BJ's Wholesale Club,Cincinnati,27 Manitowish Terrace,Beer - Labatt Blue,4,3,1797.01,2877.66
+770,Meijer,Xinji,117 Jay Lane,Sage - Rubbed,5,7,321.88,1823.43
+771,Dollar Tree,Lyon,05 Schurz Circle,Wine - Chateauneuf Du Pape,11,6,3986.8,465.2
+772,National Stores,Oslo,5883 Mcbride Alley,"Veal - Tenderloin, Untrimmed",2,7,893.11,3345.08
+773,Ben Franklin,Nanjie,04357 Eliot Terrace,Sprouts - Peppercress,9,3,4832.47,2211.46
+774,Shopko,Khust,84 Starling Junction,Lid - 16 Oz And 32 Oz,9,10,3928.67,2607.47
+775,National Stores,Wujing,208 Sachs Plaza,Bandage - Flexible Neon,1,9,2530.61,1061.68
+776,Ben Franklin,Haunubenak,580 Clove Avenue,The Pop Shoppe - Root Beer,11,8,4620.21,3015.51
+777,Marshalls,Tubigan,3 Glendale Point,Lettuce - Escarole,10,1,48.83,2973.47
+778,Big Lots,Jiabei,1 La Follette Drive,"Shrimp - 16 - 20 Cooked, Peeled",4,4,772.31,3869.06
+779,Kmart,Pétionville,06 3rd Crossing,"Croissant, Raw - Mini",8,2,668.86,2302.85
+780,Stein Mart,Conceição da Barra,26 Bobwhite Alley,"Lobster - Tail, 3 - 4 Oz",7,8,4999.42,1443.38
+781,Ollie's Bargain Outlet,Uppsala,6 Hoard Junction,"Wine - White, Pelee Island",3,3,674.23,769.24
+782,Stein Mart,Panggung,104 Marcy Hill,"Chicken - Base, Ultimate",6,6,1617.02,2884.25
+783,Shopko,Kovářov,0165 Forest Run Plaza,Bandage - Fexible 1x3,3,5,2890.2,2670.64
+784,T.J. Maxx,Inuyama,6 Shelley Parkway,"Squash - Pattypan, Yellow",8,3,1334.31,191.89
+785,Dollar General,Göteborg,22138 Lukken Point,Magnotta - Bel Paese White,11,3,2001.15,3196.1
+786,Bargain Hunt,Catabola,077 School Pass,Dragon Fruit,12,2,1323.93,123.52
+787,Kmart,Newport Beach,410 Maryland Lane,"Pepper - Chillies, Crushed",8,9,1449.18,1326.4
+788,Family Dollar,Sardoal,681 Hovde Drive,Tomatoes - Roma,8,2,616.91,1155.1
+789,Renys,Carvalhos,63739 Transport Crossing,Bread - Assorted Rolls,5,11,1376.65,2609.66
+790,Target,T’azagyugh,75984 Lerdahl Terrace,Beans - Wax,10,7,4003.26,3217.15
+791,Fred's,Maoping,20911 Pond Road,Pepper - Sorrano,4,6,3799.74,491.87
+792,Dollar Tree,Taichung,2 Katie Point,Dr. Pepper - 355ml,4,2,2887.52,3293.08
+793,Dollar General,Cortezia,99 Independence Street,Beef Flat Iron Steak,9,3,661.45,619.43
+794,National Stores,Cotton Ground,18 Vera Circle,Trout - Smoked,10,6,1239.33,914.43
+795,Gordmans,Yambol,03669 7th Alley,Appetizer - Mango Chevre,2,9,3753.66,3618.46
+796,Big Lots,Aguas del Padre,1943 Sloan Circle,Bagel - Whole White Sesame,8,6,2469.47,3137.13
+797,Ross Stores,San Vicente,0 Monica Road,"Turkey - Whole, Fresh",3,8,978.39,384.56
+798,Dd's Discounts,Fenggao,8 Scott Crossing,Soupfoamcont12oz 112con,5,3,1491.55,3278.81
+799,Gabe's,Xarsingma,2 Emmet Place,Chervil - Fresh,7,8,439.22,2882.61
+800,Meijer,Zhangqiang,3613 Columbus Road,Pea - Snow,6,7,2791.18,3475.4
+801,Marshalls,Huanshi,31 Vera Junction,Bread - Granary Small Pull,4,8,3570.54,3190.04
+802,Fred Meyer,Ipoh,7 Chinook Drive,Oxtail - Cut,4,12,3422.34,1572.3
+803,Marshalls,Taganrog,1 Ronald Regan Avenue,"Tortillas - Flour, 12",6,4,4572.81,3182.31
+804,Costco,Santa Lucía Cotzumalguapa,1835 Harper Parkway,Rice Paper,10,10,1074.62,2075.6
+805,Shopko,Palermo,70 Shopko Park,Chocolate - Liqueur Cups With Foil,3,1,173.18,3355.28
+806,Harbor Freight Tools,Oslo,07 Ridgeview Pass,Guinea Fowl,5,10,4061.87,3828.09
+807,Target,Chaviña,335 Norway Maple Junction,Soup - Campbells Asian Noodle,4,12,897.67,1670.36
+808,Ben Franklin,Lucma,49 Lighthouse Bay Lane,Lettuce - Boston Bib,1,5,4750.59,1776.75
+809,Walmart,Bombon,0 Fairview Point,Samosa - Veg,7,7,3716.47,1283.74
+810,Tuesday Morning,Lipník nad Bečvou,6246 Sugar Pass,Cheese - Grie Des Champ,10,10,47.17,873.29
+811,Marshalls,Muhos,38 Mosinee Pass,Rice Paper,9,1,3250.81,2195.66
+812,Dd's Discounts,Mubi,274 Lukken Crossing,Spice - Greek 1 Step,5,12,3231.57,220.27
+813,Gordmans,Cikou,0 Manley Junction,Oranges,4,11,2615.46,2331.49
+814,Bargain Hunt,Batad,51 Sunbrook Plaza,Salmon Steak - Cohoe 6 Oz,6,3,4522.35,1864.31
+815,Family Dollar,"Hospitalet De Llobregat, L'",6 Continental Alley,Beans - Wax,8,8,3251.31,1103.82
+816,Gordmans,Berlin,324 Northport Center,Lettuce - Frisee,3,10,4394.18,3182.8
+817,Dollar Tree,Tomelilla,3987 Hallows Place,Tea - Green,7,4,1280.14,111.48
+818,Renys,Bulualto,9833 Marcy Lane,Pepper - Cubanelle,12,4,1185.89,3418.39
+819,Ollie's Bargain Outlet,Jawand,162 Laurel Street,Dome Lid Clear P92008h,10,3,2735.68,1022.98
+820,T.J. Maxx,Santa Rosa de Copán,926 La Follette Parkway,"Beef - Rib Roast, Capless",2,8,378.73,3698.57
+821,Renys,Cigenca,759 Sutherland Terrace,"Pasta - Fettuccine, Egg, Fresh",8,9,1696.91,2491.65
+822,Tuesday Morning,Kokkinóchoma,5 Fallview Alley,Pastry - Baked Cinnamon Stick,4,9,188.11,1430.83
+823,Ben Franklin,Kasungu,44 Morning Point,"Wine - Red, Metus Rose",2,8,1987.92,3998.28
+824,Family Dollar,Tanahmerah,739 Kim Drive,Toamtoes 6x7 Select,5,3,768.3,850.24
+825,Burlington Coat Factory,Hedao,789 Sachtjen Road,Beans - Fava Fresh,6,11,4021.49,2462.02
+826,T.J. Maxx,Presidencia Roque Sáenz Peña,330 Ludington Junction,Towel Dispenser,2,9,3217.03,3971.11
+827,Ocean State Job Lot,Gizo,89551 Waywood Junction,"Flour - Bran, Red",6,3,1103.62,973.66
+828,Gordmans,Mieścisko,0 Vermont Parkway,"Pepper - Black, Whole",5,4,817.36,3441.08
+829,National Stores,Ibarreta,178 Derek Crossing,Pie Shell - 9,2,6,3497.72,1791.12
+830,Ocean State Job Lot,Chuangye,5 Golf Center,Piping - Bags Quizna,9,7,3228.26,3572.13
+831,Stein Mart,Łapsze Niżne,782 Bobwhite Drive,Kohlrabi,5,10,3380.3,2146.31
+832,National Stores,Świętajno,968 Nelson Plaza,Squid - Tubes / Tenticles 10/20,4,2,4610.66,3113.78
+833,Bi-Mart,Danauparis,2 Stoughton Place,Bread Base - Gold Formel,7,8,224.5,2444.6
+834,National Stores,Hovd,57 Anniversary Crossing,Hot Chocolate - Individual,6,8,4176.91,111.05
+835,National Stores,Bīrganj,0 Butterfield Hill,Plaintain,6,7,4376.84,933.03
+836,T.J. Maxx,Bhunya,3068 Cardinal Park,Chinese Foods - Chicken,11,4,1197.37,815.08
+837,Tuesday Morning,Cibungur,22591 Pine View Terrace,Bag Clear 10 Lb,10,6,3100.24,2193.88
+838,BJ's Wholesale Club,Narutochō-mitsuishi,42 Mitchell Way,Wine - Alsace Gewurztraminer,12,11,1591.48,3000.98
+839,Bi-Mart,Isehara,36439 Brickson Park Point,"Mushroom - Enoki, Fresh",8,2,2557.4,1237.87
+840,BJ's Wholesale Club,Muqi,0 Stuart Crossing,Soup - Campbells Tomato Ravioli,12,8,2549.22,647.95
+841,Gabe's,Rafaï,64 Susan Parkway,Toothpick Frilled,11,1,309.45,2407.3
+842,Family Dollar,Puro Pinget,357 Kings Street,Onions - Cooking,3,2,2703.71,2976.64
+843,Ross Stores,Buriwutung,8 Dryden Park,"Wine - Magnotta, Merlot Sr Vqa",1,2,412.53,1151.61
+844,National Stores,Watubuku,0 Claremont Park,The Pop Shoppe Pinapple,7,8,1385.88,3826.64
+845,Meijer,Zhigalovo,42 Morrow Alley,Papadam,2,1,2260.99,2557.56
+846,Fred's,Krajan Jamprong,98 Lyons Pass,Calypso - Pineapple Passion,1,2,2288.57,1577.91
+847,Meijer,Eman,9437 Rowland Alley,Remy Red Berry Infusion,11,6,1010.94,3576.63
+848,T.J. Maxx,Sainte-Anne-des-Plaines,9 Anhalt Center,Sausage - Meat,7,5,731.95,2295.9
+849,Dollar Tree,Vũ Quang,9382 Stephen Trail,Beer - Upper Canada Light,11,2,4619.11,1753.12
+850,Marshalls,Fordon,59834 Forster Junction,Wine - Prosecco Valdobienne,10,4,4673.05,379.28
+851,Kmart,Klimovsk,88136 Menomonie Terrace,Anchovy In Oil,5,3,3037.17,3967.74
+852,Shopko,Bandarbeyla,3351 John Wall Road,Latex Rubber Gloves Size 9,5,1,4136.73,3754.02
+853,Costco,Kerep Wetan,383 Briar Crest Way,Wine - Pinot Noir Mondavi Coastal,12,12,3737.68,3666.27
+854,Fred's,Bungbulang,3 Arizona Street,Beef - Striploin Aa,10,11,2983.17,1769.6
+855,Stein Mart,Meixi,4 New Castle Circle,Cream Of Tartar,12,12,4366.46,3874.64
+856,Dd's Discounts,Monte Aprazível,9610 Meadow Valley Way,"Spoon - Soup, Plastic",10,3,2784.62,3358.84
+857,HomeGoods,Stamford,539 Merry Junction,"Wine - Red, Pelee Island Merlot",2,8,4204.13,2232.9
+858,Kmart,Entebbe,94079 Warner Plaza,Chicken Breast Halal,8,6,916.62,389.19
+859,Stein Mart,Ōfunato,4 2nd Hill,Tea - Decaf 1 Cup,10,3,4434.96,446.85
+860,Fred Meyer,Dongxin,13298 Petterle Place,Veal - Inside,10,8,3384.48,2735.24
+861,Marshalls,Chambar,56063 La Follette Parkway,"Soup - Knorr, Classic Can. Chili",5,10,407.25,1882.77
+862,Bargain Hunt,Uk,75 Park Meadow Crossing,Lemonade - Pineapple Passion,5,8,2198.69,1433.25
+863,BJ's Wholesale Club,Trajouce,65905 Superior Plaza,Corn - Mini,4,2,1298.11,3478.09
+864,Tuesday Morning,Paris La Défense,32377 Manufacturers Center,Pecan Raisin - Tarts,4,1,1378.49,2279.93
+865,National Stores,Thabazimbi,6 Delladonna Street,"Coconut - Creamed, Pure",7,8,3583.74,449.73
+866,Fred Meyer,Tongjiaxi,878 Corry Circle,"Lamb - Whole, Fresh",8,2,89.68,1699.71
+867,Roses,Saniwonorejo,8427 Del Sol Lane,Orange Roughy 6/8 Oz,12,2,2151,2603.19
+868,Dd's Discounts,Road Town,0 Elgar Road,Nantucket Cranberry Juice,8,11,1110.49,2248.61
+869,Kmart,Biała,9306 Glacier Hill Terrace,Yukon Jack,7,7,3136.04,3763.02
+870,Kmart,Teberda,83079 Sutherland Pass,Wine - Fat Bastard Merlot,5,12,3223.07,909.43
+871,Dollar General,Phu Loc,49847 Petterle Circle,"Tomatoes - Cherry, Yellow",1,7,2680.8,987.65
+872,Tuesday Morning,Ochla,31 Killdeer Crossing,Soup - Campbells Mac N Cheese,8,12,534.7,3090.09
+873,Dollar General,Épinal,48816 Bartillon Place,Salt And Pepper Mix - Black,5,11,1856.14,3606.86
+874,Bargain Hunt,Minneapolis,8 Glacier Hill Parkway,Muffin - Banana Nut Individual,1,11,2950.42,3314.07
+875,Costco,Wuyang,77718 Randy Court,Muffin Mix - Blueberry,5,7,2159.06,721.54
+876,Ocean State Job Lot,Solnice,83 Del Sol Crossing,Ham - Cooked Bayonne Tinned,10,3,3134.64,2696.93
+877,Family Dollar,Huaribamba,771 Gerald Way,Puff Pastry - Slab,10,11,3354.72,1899.35
+878,Ben Franklin,Jardia,07 Waywood Road,Appetiser - Bought,5,8,2296.34,3990.29
+879,Harbor Freight Tools,Pitanga,7196 Morning Hill,Wine - Masi Valpolocell,5,4,1494.94,2258.84
+880,Ollie's Bargain Outlet,Harjamukti,2377 Coolidge Road,"Tart Shells - Sweet, 3",4,7,4154.05,3459.51
+881,Gabe's,Khorinsk,77 Waubesa Lane,Pastry - Baked Scones - Mini,7,6,2333.73,2298.21
+882,Dollar Tree,Campinas,81978 Stoughton Parkway,Olives - Stuffed,11,10,858.22,2674.12
+883,Target,Benito Juarez,01 Delladonna Terrace,Tea - Herbal Sweet Dreams,3,6,1649.84,3786.21
+884,Dollar Tree,Duanshen,22576 Sullivan Court,Beer - Sleeman Fine Porter,7,12,2204.86,1936.65
+885,Harbor Freight Tools,Séléa,908 Iowa Terrace,Broom - Corn,1,2,3175.01,3626.08
+886,Target,Timurlorong,25 Norway Maple Plaza,Leeks - Large,7,11,3207.72,1278.26
+887,HomeSense,Paraíso,4 Pond Terrace,Pheasants - Whole,7,11,485.26,1708.34
+888,HomeSense,Liang,25258 Westport Junction,Oil - Avocado,8,10,4773.57,1632.01
+889,Marshalls,Shamva,9 Merry Crossing,"Tea - Darjeeling, Azzura",8,2,1381.42,2322.77
+890,Burlington Coat Factory,Wakkanai,5278 La Follette Hill,"Wine - Red, Concha Y Toro",6,11,668.69,1059.85
+891,Ben Franklin,Colorado,794 Armistice Plaza,"Soup - Campbells, Minestrone",3,3,4458.64,3543.77
+892,Stein Mart,Shanxiahu,31458 Calypso Alley,Muffin Hinge - 211n,4,2,78.06,137.75
+893,Fred Meyer,Villa Bisonó,9804 American Ash Pass,Cherries - Frozen,4,9,3972.78,884.42
+894,Bi-Mart,Sunagawa,0785 Kensington Plaza,"Soup - Knorr, Ministrone",1,10,2520.53,403
+895,Gordmans,Xinghua,2230 Evergreen Pass,"Wine - Red, Antinori Santa",6,1,1220.06,12.78
+896,Shopko,Shaxi,17 Gateway Drive,Gatorade - Lemon Lime,11,5,1089.73,2911.55
+897,Dollar Tree,Knoxville,082 Karstens Plaza,"Lamb - Whole, Fresh",4,6,3292.8,2939.6
+898,Marshalls,Daguo,0140 American Park,"Bread - Pumpernickle, Rounds",12,10,3972.11,790.68
+899,BJ's Wholesale Club,Shangtuhai,0037 Victoria Crossing,Relish,9,9,2216.92,1112.87
+900,Five Below,Heemstede,8971 Di Loreto Point,Chives - Fresh,5,2,3500.34,2025.5
+901,Shopko,Vysočany,40 Graedel Hill,Oil - Olive,12,1,1747.35,2571.71
+902,Bargain Hunt,Cikujang,2487 Hovde Terrace,Veal - Heart,12,1,1821.12,2377.37
+903,Five Below,Kapitanivka,223 Sheridan Trail,Water - Aquafina Vitamin,8,10,167.28,123.06
+904,Harbor Freight Tools,Sumurwaru,9230 Park Meadow Hill,"Lemonade - Strawberry, 591 Ml",10,10,876.19,1166.6
+905,Dollar Tree,Zhongshan,1 Eastlawn Parkway,Sour Puss Sour Apple,7,5,4938.78,1119.49
+906,Dollar General,Kolomanu,34 Cascade Plaza,Macaroons - Homestyle Two Bit,10,11,4075.26,1482.77
+907,Dd's Discounts,Sentieiras,41701 4th Place,Mix - Cocktail Ice Cream,2,4,2198.78,1979.5
+908,Family Dollar,Bāglung,92 Vera Parkway,"Pasta - Lasagne, Fresh",2,5,3523.42,813.43
+909,Bi-Mart,Rybinsk,285 Harbort Center,"Oranges - Navel, 72",11,6,3867.67,3197.98
+910,Roses,Shakhun’ya,3735 Lien Drive,Wine - Rhine Riesling Wolf Blass,4,2,2389.89,1544.82
+911,Stein Mart,Lukrejo,5 Orin Hill,Sugar - Palm,10,12,2960.02,1472.25
+912,Bargain Hunt,Giporlos,5 Vermont Crossing,Coffee - Hazelnut Cream,11,6,1018.92,305.39
+913,Dollar General,Yangxunqiao,5693 Bultman Road,Persimmons,1,7,1581.97,3372.29
+914,Stein Mart,São Sepé,2 Esch Park,Sprouts - Bean,2,7,974.92,116.95
+915,Walmart,Češinovo,1311 Jenna Parkway,Fondant - Icing,1,6,520.21,146.9
+916,Gabe's,Larvik,8 Carey Court,"Pepper - Black, Ground",2,3,4250.28,1420.52
+917,Kmart,Złocieniec,532 Express Crossing,Flavouring - Orange,1,10,1281.73,2080.62
+918,Stein Mart,Niagara Falls,4 Swallow Center,"Wine - White, Riesling, Semi - Dry",6,12,728.75,2434.42
+919,Shopko,Tomado,2 Rockefeller Crossing,Sea Bass - Fillets,7,9,3757.16,2338.38
+920,Ocean State Job Lot,Aguachica,3 1st Court,Sun - Dried Tomatoes,12,5,2441.83,3514.48
+921,Gordmans,Maunggora,1 Bartelt Road,Parasol Pick Stir Stick,5,5,3292.91,3527.67
+922,Costco,Reckange-sur-Mess,23 Ryan Lane,Beer - Tetleys,4,8,4066,540.06
+923,T.J. Maxx,Dongming,24 Summit Center,Bread - Raisin,1,7,3983.56,2361.01
+924,BJ's Wholesale Club,Mrongi Daja,759 David Point,Truffle - Peelings,12,6,2487.79,3714.59
+925,Harbor Freight Tools,Sabnova,58332 Talmadge Avenue,"Wine - White, Riesling, Henry Of",2,4,3348.59,1756.09
+926,Dollar Tree,Bandhagen,67808 Spaight Pass,Ecolab - Hobart Upr Prewash Arm,6,12,1111.46,2816.75
+927,Dollar Tree,Tintina,76 Maywood Court,"Tomatoes - Diced, Canned",6,6,1951.33,1971.1
+928,Ocean State Job Lot,Buket Teukuh,24347 Stone Corner Road,Cake - Pancake,10,1,4698.82,3114.68
+929,Marshalls,Tatsuno,4 Katie Trail,Fenngreek Seed,5,10,4761.16,2596.21
+930,Kmart,Punta de Bombón,342 Green Drive,Wine - Rhine Riesling Wolf Blass,8,8,2793.89,3927.89
+931,Ollie's Bargain Outlet,Syevyerodonets’k,988 Michigan Avenue,Pears - Anjou,5,8,839.55,3629.41
+932,Ollie's Bargain Outlet,Despotovac,5 Independence Crossing,Milk - 1%,11,6,4045.02,1908.01
+933,Fred's,Goubangzi,920 Larry Parkway,Soup - French Can Pea,12,6,4200.62,1934.63
+934,Fred Meyer,Dammarie-les-Lys,5 Magdeline Street,V8 Splash Strawberry Banana,12,3,4735.1,2914.01
+935,Fred's,Slavs’ke,4 Onsgard Way,Tobasco Sauce,10,8,3584.23,1430.3
+936,Walmart,Chambéry,867 Fallview Junction,Breakfast Quesadillas,12,5,770.29,771.79
+937,Dd's Discounts,Piña,48 Bay Road,Puree - Raspberry,3,8,3076.56,2299.61
+938,Tuesday Morning,Podgornoye,08492 Vera Way,"Veal - Shank, Pieces",3,12,1400.67,1282.75
+939,Bargain Hunt,Librazhd,41269 Delladonna Drive,Cookies Cereal Nut,5,10,3235.06,2736.27
+940,Marshalls,Longsha,8 Lukken Terrace,Soup Campbells - Tomato Bisque,7,6,4346.52,3597.64
+941,Tuesday Morning,Marxog,9952 Lindbergh Alley,Ham - Procutinni,7,2,823.03,3365.72
+942,Ocean State Job Lot,Santa Lucia,038 Ridgeway Circle,Bandage - Fexible 1x3,6,9,1394.04,3011.05
+943,Tuesday Morning,Murmino,59 Porter Crossing,Cake - Pancake,12,2,1049.98,2469.28
+944,Roses,Casal,52 Reinke Circle,Puff Pastry - Sheets,12,2,1713.69,3606.7
+945,Bi-Mart,Yinyang,8614 Ridgeway Center,Lettuce - Treviso,11,8,2379.99,1694.88
+946,Dollar General,Xinji,28 Sutteridge Alley,Muffin - Banana Nut Individual,4,10,4860.16,1660.43
+947,Renys,Buenavista,12101 Pawling Junction,Beer - Tetleys,10,7,2019.46,3254.62
+948,Bi-Mart,Luzern,6 Dottie Circle,Cheese - Parmigiano Reggiano,11,1,189.8,897.4
+949,HomeSense,Ojo de Agua,0 Division Avenue,Extract - Lemon,6,2,1825.52,2209.48
+950,Big Lots,Qila Abdullāh,715 Del Sol Road,Muffin Mix - Oatmeal,8,2,3395.58,3958.1
+951,T.J. Maxx,Aldeia de Além,10 Cascade Drive,Wine - Savigny - Les - Beaune,10,12,2171.81,3160.18
+952,BJ's Wholesale Club,Wąpielsk,441 Helena Place,"Pepper - Black, Ground",12,9,1698.66,284.94
+953,Target,Trollhättan,02193 Mifflin Avenue,Cheese - Cream Cheese,11,1,95.63,727.73
+954,Dollar Tree,Varge Mondar,53247 Arkansas Parkway,Nacho Chips,11,6,3742.03,3450.34
+955,BJ's Wholesale Club,Xiashihao,76 Pine View Plaza,Peppercorns - Green,6,5,2766.35,1030.27
+956,Dollar General,Fenggao,880 Fairview Avenue,Chicken - Whole,9,5,2672.08,2063.88
+957,Family Dollar,Bachok,72 Gulseth Parkway,"Lamb - Pieces, Diced",7,4,1908.21,2686.27
+958,Roses,Shuinan,56067 Golf Way,"Cup - 3.5oz, Foam",10,12,637.69,1536.72
+959,Dollar General,Shigongqiao,6531 Dapin Plaza,Chef Hat 25cm,9,10,891.54,3867.71
+960,HomeSense,Taishanmiao,5 Packers Circle,Pineapple - Golden,10,4,2061.94,3052.63
+961,Gabe's,Ejigbo,4 Harper Hill,Petite Baguette,11,11,4549.29,1622.26
+962,Gabe's,Najiaying,759 Gerald Circle,Rice - Aborio,6,12,4950.76,2159.4
+963,Stein Mart,Dateng,0845 Goodland Street,Beer - True North Strong Ale,8,10,4734.72,3111.96
+964,Fred's,Cambanay,42 Summit Alley,Chicken Thigh - Bone Out,11,6,4248.23,3583.77
+965,Burlington Coat Factory,Kokubu-matsuki,57786 Prairieview Alley,Ginger - Ground,3,7,2847.42,94.44
+966,Gordmans,Sillon,168 Tomscot Junction,"Capon - Breast, Wing On",7,4,2736.19,3431.41
+967,T.J. Maxx,Hantai,5 Hanson Court,Wine - Magnotta - Belpaese,9,10,2828.77,3693.7
+968,Shopko,North Little Rock,6359 Alpine Street,Longos - Chicken Curried,8,2,1507.78,1263.01
+969,Walmart,Volgo-Kaspiyskiy,660 Esker Alley,Spice - Paprika,9,5,1454.16,2378.28
+970,Costco,Cabadiangan,96487 Buena Vista Road,Tamarillo,9,11,896.33,3078.94
+971,Family Dollar,Babakan,27 South Terrace,Cakes Assorted,12,6,2960.14,1223.6
+972,Fred's,Sananduva,5 Waxwing Terrace,Brandy - Bar,10,2,225.67,1096.9
+973,Shopko,Nakajah,68988 Mitchell Circle,"Sauce - Black Current, Dry Mix",12,10,3234.51,2009.06
+974,Roses,Yanglinwei,88 Annamark Center,Muffin Orange Individual,3,10,464.25,890.48
+975,Target,Salamá,1 Lien Parkway,The Pop Shoppe - Grape,2,5,3811.07,3114.27
+976,Walmart,Zhuanqiang,93318 Cascade Park,"Soup - Campbells, Creamy",3,1,3929.17,3116.27
+977,Dollar General,Ōdachō-ōda,77 West Lane,Sole - Fillet,2,9,4748.45,1373.34
+978,Target,Xiniu,0964 Schmedeman Drive,Banana Turning,6,3,2303.83,3195.4
+979,Walmart,Bulqizë,29193 Lunder Lane,"Beans - Turtle, Black, Dry",2,2,2618.61,107.88
+980,Family Dollar,Huayuan,53033 Clyde Gallagher Crossing,Cup - Translucent 7 Oz Clear,9,8,1352.83,2126.41
+981,T.J. Maxx,Whistler,6 Mayfield Terrace,Tofu - Firm,11,10,2215.59,2256.8
+982,Five Below,Minggang,4703 Blue Bill Park Point,Bread - Mini Hamburger Bun,6,11,1964.08,2273.47
+983,Target,Beltinci,302 Sundown Way,Flour - Pastry,3,5,2199.94,3252.77
+984,Target,Bobigny,50768 Karstens Street,Cabbage - Red,6,4,953.67,1252.27
+985,Dollar Tree,Gapluk,84 Superior Drive,Chinese Foods - Plain Fried Rice,11,12,2889.95,3512.56
+986,Ollie's Bargain Outlet,Madoi,40 Blue Bill Park Pass,"Wine - Red, Marechal Foch",8,9,3816.48,1849.01
+987,T.J. Maxx,Terezín,98 Lake View Junction,Salmon - Fillets,5,1,161.62,1004.12
+988,Ben Franklin,Regidor,09220 John Wall Point,Wine - Manischewitz Concord,2,12,4825.14,27.14
+989,National Stores,Marne-la-Vallée,0 Anthes Road,Ecolab Crystal Fusion,10,8,4031.55,3819.93
+990,Bi-Mart,Līkak,2 Schmedeman Park,Coffee - Decafenated,9,10,3765.24,2334.08
+991,Roses,Jõgeva,9 Randy Road,"Seedlings - Buckwheat, Organic",11,3,2437.3,1528.7
+992,Tuesday Morning,Tinogasta,1557 Boyd Street,Bok Choy - Baby,5,6,1087.12,2984.66
+993,Walmart,Meixi,59238 Shopko Terrace,Turkey - Ground. Lean,3,6,3644.43,1290.62
+994,Gabe's,Fenglin,3 Tennyson Trail,"Basil - Dry, Rubbed",7,9,4009.93,1665.3
+995,Kmart,Xiantang,9 Morningstar Parkway,Wine - Pinot Noir Stoneleigh,4,2,3708.82,2504.58
+996,Walmart,Anserma,7 Roxbury Place,Okra,3,3,2395.99,596.47
+997,T.J. Maxx,Xinglongjie,9476 Morrow Trail,Pork - Smoked Back Bacon,12,12,4646.21,3477.17
+998,Burlington Coat Factory,Isangel,3029 Hollow Ridge Place,Flounder - Fresh,9,6,4739.64,2702.02
+999,Tuesday Morning,Gaya,496 Dapin Hill,Bread - Wheat Baguette,6,6,2311.42,487.96
+1000,Big Lots,Sexmoan,99 Granby Place,"Soup - Knorr, French Onion",2,2,4712.33,1769.61
