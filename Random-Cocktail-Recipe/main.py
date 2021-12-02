@@ -5,10 +5,12 @@ import numpy as np
 import requests
 import collections 
 
-df = pd.read_csv(r'/Users/jordanmcqueen/Documents/GitHub/ITSC-3155-Software-Engineering-Group-Repository/Random-Cocktail-Recipe/InventoryData.csv')
+df = pd.read_excel(r'/Users/jordanmcqueen/Documents/GitHub/ITSC-3155-Software-Engineering-Group-Repository/Random-Cocktail-Recipe/InventoryData (1).xlsx')
 def get_recipe():
 
+
     # Get the ingredients from the text box
+    
     
     
 
@@ -16,6 +18,9 @@ def get_recipe():
     response = requests.get(COCKTAIL_ENDPOINT)
     response.raise_for_status()
     data = response.json()['drinks']
+
+
+    
     
     # Get the list of ingredients
     ingredients_list = []
@@ -26,11 +31,19 @@ def get_recipe():
             add = f"{num}. {cocktail_ingredient}"
             ingredients_list.append(add)
 
-    if(df.to_numpy == ingredients_list):
-        print("You have all the ingredients!")
-    else:
-        print("You need to add more ingredients!")
-        
+       
+    A = pd.DataFrame(ingredients_list)
+    A.columns = ['Ingredients']
+    A.to_csv('ingredients.csv')
+    
+    B = pd.DataFrame(df['ProductName'])
+
+    B.columns = ['Ingredients']
+    B.to_csv('inventory.csv')
+    
+    if B.isin(A).any().any():
+        print('yes')    
+         
 
 
     
