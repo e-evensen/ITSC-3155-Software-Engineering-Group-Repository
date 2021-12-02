@@ -38,11 +38,11 @@ def get_recipe():
     
     B = pd.DataFrame(df['ProductName'])
 
-    B.columns = ['Ingredients']
+    B.columns = ['ProductNames']
     B.to_csv('inventory.csv')
     
-    if B.isin(A).any().any():
-        print('yes')    
+    
+          
          
 
 
