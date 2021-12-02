@@ -1,14 +1,39 @@
 
 from tkinter import *
+import pandas as pd 
+import numpy as np
 import requests
+import collections 
 
-
+df = pd.read_csv(r'/Users/jordanmcqueen/Documents/GitHub/ITSC-3155-Software-Engineering-Group-Repository/Random-Cocktail-Recipe/InventoryData.csv')
 def get_recipe():
+
+    # Get the ingredients from the text box
+    
+    
 
     COCKTAIL_ENDPOINT = "https://www.thecocktaildb.com/api/json/v1/1/random.php"
     response = requests.get(COCKTAIL_ENDPOINT)
     response.raise_for_status()
     data = response.json()['drinks']
+    
+    # Get the list of ingredients
+    ingredients_list = []
+    for num in range(1, 16):
+        item = f"strIngredient{num}"
+        cocktail_ingredient = data[0][item]
+        if cocktail_ingredient is not None:
+            add = f"{num}. {cocktail_ingredient}"
+            ingredients_list.append(add)
+
+    if(df.to_numpy == ingredients_list):
+        print("You have all the ingredients!")
+    else:
+        print("You need to add more ingredients!")
+        
+
+
+    
 
     # Get cocktail name
     cocktail_name = data[0]["strDrink"]
@@ -22,14 +47,7 @@ def get_recipe():
     cocktail_instruction = data[0]['strInstructions']
     canvas.itemconfig(instruction, text=cocktail_instruction)
 
-    # Get the list of ingredients
-    ingredients_list = []
-    for num in range(1, 16):
-        item = f"strIngredient{num}"
-        cocktail_ingredient = data[0][item]
-        if cocktail_ingredient is not None:
-            add = f"{num}. {cocktail_ingredient}"
-            ingredients_list.append(add)
+    
 
     # Get ingredients measurements
     measurement_list = []
